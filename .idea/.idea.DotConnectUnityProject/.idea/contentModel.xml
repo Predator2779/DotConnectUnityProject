@@ -1880,6 +1880,9 @@
               <e p="GameManager.cs" t="Include" />
               <e p="GridCell.cs" t="Include" />
             </e>
+            <e p="Localization" t="Include">
+              <e p="LanguageSwitcher.cs" t="Include" />
+            </e>
             <e p="UI" t="Include">
               <e p="BundleScreen.cs" t="Include" />
               <e p="GiftBox.cs" t="Include" />
@@ -1894,9 +1897,11 @@
             <e p="Utils" t="Include">
               <e p="CellPos.cs" t="Include" />
             </e>
+            <e p="YandexADS" t="Include">
+              <e p="TestReward.cs" t="Include" />
+            </e>
           </e>
         </e>
-        <e p="LanguageSwitcher.cs" t="Include" />
         <e p="Resources" t="Include">
           <e p="BillingMode.json" t="Include" />
         </e>

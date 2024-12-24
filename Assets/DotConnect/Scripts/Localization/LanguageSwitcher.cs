@@ -3,6 +3,7 @@ using DotConnect.Plugins.SimpleLocalization.Scripts;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using YG;
 
 public class LanguageSwitcher : MonoBehaviour
 {
