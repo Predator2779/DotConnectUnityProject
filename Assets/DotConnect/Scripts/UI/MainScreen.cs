@@ -21,7 +21,7 @@ namespace BizzyBeeGames.DotConnect
 
 			bool adsRemoved = MobileAdsManager.Instance.AdsRemoved;
 
-			removeAdsButton.SetActive(!adsRemoved);
+			// removeAdsButton.SetActive(!adsRemoved);
 
 			if (!adsRemoved)
 			{

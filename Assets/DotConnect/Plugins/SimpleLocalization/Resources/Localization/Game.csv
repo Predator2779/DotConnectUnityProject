@@ -4,6 +4,6 @@ Menu.Example.Lines,Lines:,Линий:
 Menu.Example.Fill,Fill:,Всего:
 Menu.Example.Undo,UNDO,ОТМЕНА
 Menu.Example.Reset,RESET,СБРОС
-Menu.Example.LastLevel,LAST LEVEL,ПРЕДЫДУЩ УР
-Menu.Example.NextLevel,NEXT LEVEL,СЛЕДУЮЩ УР
+Menu.Example.LastLevel,LAST LEVEL,ПРЕДЫДУЩИЙ
+Menu.Example.NextLevel,NEXT LEVEL,СЛЕДУЮЩИЙ
 Menu.Example.Hint,HINT,СОВЕТ
