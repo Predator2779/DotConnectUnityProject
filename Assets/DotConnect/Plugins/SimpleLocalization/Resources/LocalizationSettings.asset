@@ -44,4 +44,7 @@ MonoBehaviour:
   - Name: NotEnoughHints
     Id: 1578284498
     TextAsset: {fileID: 4900000, guid: 5e52ac752637e8b429fd22cf07329535, type: 3}
+  - Name: LockedContent
+    Id: 361684289
+    TextAsset: {fileID: 4900000, guid: d58ac732c26615843ba6a391c0e985bc, type: 3}
   SaveFolder: {fileID: 102900000, guid: c392831e85f928548b8494fefd912562, type: 3}

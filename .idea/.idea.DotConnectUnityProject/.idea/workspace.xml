@@ -22,7 +22,6 @@
         <option value="$PROJECT_DIR$/Assets/DotConnect/Plugins/SimpleLocalization/Scripts/LocalizedTMPText.cs" />
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/Data/Inspector/PackInfo.cs" />
         <option value="$PROJECT_DIR$/Assets/DotConnect/Plugins/SimpleLocalization/Scripts/LocalizationManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/UI/PackListItem.cs" />
         <option value="$PROJECT_DIR$/Assets/LanguageSwitcher.cs" />
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/UI/LevelCompletePopup.cs" />
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/UI/BundleScreen.cs" />
@@ -34,6 +33,7 @@
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/YandexADS/RewardYandexButton.cs" />
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/UI/MainScreen.cs" />
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/UI/TopBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/UI/PackListItem.cs" />
       </list>
     </option>
   </component>
@@ -86,7 +86,7 @@
       <workItem from="1734873521962" duration="1316000" />
       <workItem from="1734942343463" duration="2606000" />
       <workItem from="1734968406851" duration="595000" />
-      <workItem from="1735023414486" duration="16102000" />
+      <workItem from="1735023414486" duration="16990000" />
     </task>
     <servers />
   </component>
