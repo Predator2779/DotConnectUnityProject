@@ -35,4 +35,13 @@ MonoBehaviour:
   - Name: PackInfos
     Id: 1860522455
     TextAsset: {fileID: 4900000, guid: 5ee48120dd9ab7b4099ff52fe28ac43f, type: 3}
+  - Name: DataPrivacy
+    Id: 1099764757
+    TextAsset: {fileID: 4900000, guid: 420a0793476fe6345a66c1d7ace1416d, type: 3}
+  - Name: RewardAdGranted
+    Id: 1229671114
+    TextAsset: {fileID: 4900000, guid: 93ffdc87fb9a2354ab4ebfe9c7d2a165, type: 3}
+  - Name: NotEnoughHints
+    Id: 1578284498
+    TextAsset: {fileID: 4900000, guid: 5e52ac752637e8b429fd22cf07329535, type: 3}
   SaveFolder: {fileID: 102900000, guid: c392831e85f928548b8494fefd912562, type: 3}
