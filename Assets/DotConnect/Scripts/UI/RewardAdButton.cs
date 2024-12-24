@@ -1,7 +1,9 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using YG;
 
 namespace BizzyBeeGames.DotConnect
 {
@@ -26,28 +28,40 @@ namespace BizzyBeeGames.DotConnect
 		{
 			Button.onClick.AddListener(OnClick);
 
-			gameObject.SetActive(MobileAdsManager.Instance.RewardAdState == AdNetworkHandler.AdState.Loaded);
-
-			MobileAdsManager.Instance.OnRewardAdLoaded	+= OnRewardAdLoaded;
-			MobileAdsManager.Instance.OnAdsRemoved		+= OnAdsRemoved;
+			// gameObject.SetActive(MobileAdsManager.Instance.RewardAdState == AdNetworkHandler.AdState.Loaded);
+			//
+			// MobileAdsManager.Instance.OnRewardAdLoaded	+= OnRewardAdLoaded;
+			// MobileAdsManager.Instance.OnAdsRemoved		+= OnAdsRemoved;
 		}
 
 		#endregion
 
 		#region Private Methods
 
+		private void OnEnable()
+		{
+			YandexGame.RewardVideoEvent += OnRewardAdGranted;
+		}
+
+		private void OnDisable()
+		{
+			YandexGame.RewardVideoEvent -= OnRewardAdGranted;
+		}
+
 		private void OnClick()
 		{
-			if (MobileAdsManager.Instance.RewardAdState != AdNetworkHandler.AdState.Loaded)
-			{
-				gameObject.SetActive(false);
-
-				Debug.LogError("[RewardAdButton] The reward button was clicked but there is no ad loaded to show.");
-
-				return;
-			}
-
-			MobileAdsManager.Instance.ShowRewardAd(OnRewardAdClosed, OnRewardAdGranted);
+			// if (MobileAdsManager.Instance.RewardAdState != AdNetworkHandler.AdState.Loaded)
+			// {
+			// 	gameObject.SetActive(false);
+			//
+			// 	Debug.LogError("[RewardAdButton] The reward button was clicked but there is no ad loaded to show.");
+			//
+			// 	return;
+			// }
+			//
+			// MobileAdsManager.Instance.ShowRewardAd(OnRewardAdClosed, OnRewardAdGranted);
+			
+			YandexGame.RewVideoShow(hintsToReward);
 		}
 
 		private void OnRewardAdLoaded()
@@ -60,6 +74,11 @@ namespace BizzyBeeGames.DotConnect
 			gameObject.SetActive(false);
 		}
 
+		private void OnRewardAdGranted(int id)
+		{
+			OnRewardAdGranted("reward_ad_granted", hintsToReward);
+		}
+		
 		private void OnRewardAdGranted(string rewardId, double rewardAmount)
 		{
 			// Give the hints

@@ -1898,7 +1898,7 @@
               <e p="CellPos.cs" t="Include" />
             </e>
             <e p="YandexADS" t="Include">
-              <e p="TestReward.cs" t="Include" />
+              <e p="RewardYandexButton.cs" t="Include" />
             </e>
           </e>
         </e>
