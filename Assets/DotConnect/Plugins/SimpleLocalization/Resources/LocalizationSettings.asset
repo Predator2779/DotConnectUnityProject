@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63817d93022759543b57e795c78efe11, type: 3}
+  m_Name: LocalizationSettings
+  m_EditorClassIdentifier: 
+  TableId: 1PB73iwnmmteniKfvj3Rt3qHiHJTAnVm6LyRI4VW7rhc
+  Sheets:
+  - Name: StartMenu
+    Id: 0
+    TextAsset: {fileID: 4900000, guid: 08ae7737cbc9a9f419946c4d5710f72c, type: 3}
+  - Name: Game
+    Id: 903523422
+    TextAsset: {fileID: 4900000, guid: ab6613bf900f287409e969f2c97ff0c6, type: 3}
+  - Name: LevelComplete
+    Id: 1720470457
+    TextAsset: {fileID: 4900000, guid: ac226cb96b737d447a2fc95490e9c7f9, type: 3}
+  - Name: Store
+    Id: 1035124043
+    TextAsset: {fileID: 4900000, guid: 78282dfaecebb264eb7f238e68bc8738, type: 3}
+  - Name: Bundles
+    Id: 149678530
+    TextAsset: {fileID: 4900000, guid: e152724fe92be9a4bb07dbd3801b954b, type: 3}
+  - Name: Settings
+    Id: 331980525
+    TextAsset: {fileID: 4900000, guid: 4a7f00d68906e0d4ea68156c841ec7c4, type: 3}
+  - Name: PackInfos
+    Id: 1860522455
+    TextAsset: {fileID: 4900000, guid: 5ee48120dd9ab7b4099ff52fe28ac43f, type: 3}
+  SaveFolder: {fileID: 102900000, guid: c392831e85f928548b8494fefd912562, type: 3}

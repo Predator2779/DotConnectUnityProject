@@ -1,0 +1,8 @@
+Key,English,Russian
+LevelComplete.Example.Title,LEVEL COMPLETE!,УРОВЕНЬ ПРОЙДЕН!
+LevelComplete.Example.NextLevel,NEXT LEVEL,СЛЕДУЮЩИЙ
+LevelComplete.Example.numMoves1,You completed the level in,Вы прошли уровень за
+LevelComplete.Example.numMoves2,moves!,шагов!
+LevelComplete.Example.StarInfo1,Complete the level in,Пройдите уровень за
+LevelComplete.Example.StarInfo2,moves to earn a star!,"шагов, чтобы получить звезду!"
+LevelComplete.Example.EarnedStar,You earned +1 star!,Вы заработали +1 звезду!

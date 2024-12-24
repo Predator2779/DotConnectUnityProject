@@ -1,0 +1,1991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\DATA\Projects\DotConnectUnityProject" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DotConnect" t="Include">
+          <e p="Framework" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Ads" t="Include">
+                <e p="AdNetworkHandler.cs" t="Include" />
+                <e p="AdNetworkHandlers" t="Include">
+                  <e p="AdMobNetworkHandler.cs" t="Include" />
+                  <e p="UnityAdsEventListener.cs" t="Include" />
+                  <e p="UnityAdsNetworkHander.cs" t="Include" />
+                </e>
+                <e p="Editor" t="Include">
+                  <e p="MobileAdsManagerEditor.cs" t="Include" />
+                  <e p="MobileAdsSettingsWindow.cs" t="Include" />
+                  <e p="MobileAdsUtils.cs" t="Include" />
+                </e>
+                <e p="MobileAdsManager.cs" t="Include" />
+                <e p="MobileAdsSettings.cs" t="Include" />
+              </e>
+              <e p="Events" t="Include">
+                <e p="EventManager.cs" t="Include" />
+              </e>
+              <e p="IAP" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="IAPManagerEditor.cs" t="Include" />
+                  <e p="IAPProductButtonEditor.cs" t="Include" />
+                  <e p="IAPSettingsWindow.cs" t="Include" />
+                </e>
+                <e p="IAPManager.cs" t="Include" />
+                <e p="IAPProductButton.cs" t="Include" />
+                <e p="IAPRestorePurchasesButton.cs" t="Include" />
+                <e p="IAPSettings.cs" t="Include" />
+                <e p="Testing" t="Include">
+                  <e p="IAPTestButton.cs" t="Include" />
+                  <e p="IAPTestScene.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Popup" t="Include">
+                <e p="Popup.cs" t="Include" />
+                <e p="PopupManager.cs" t="Include" />
+              </e>
+              <e p="Save" t="Include">
+                <e p="ISaveable.cs" t="Include" />
+                <e p="SaveManager.cs" t="Include" />
+              </e>
+              <e p="Screen" t="Include">
+                <e p="Screen.cs" t="Include" />
+                <e p="ScreenBackButton.cs" t="Include" />
+                <e p="ScreenManager.cs" t="Include" />
+              </e>
+              <e p="Sound" t="Include">
+                <e p="ButtonSound.cs" t="Include" />
+                <e p="SoundManager.cs" t="Include" />
+              </e>
+              <e p="UI" t="Include">
+                <e p="ClickableListItem.cs" t="Include" />
+                <e p="ExpandableListHandler.cs" t="Include" />
+                <e p="ExpandableListItem.cs" t="Include" />
+                <e p="OpenLinkButton.cs" t="Include" />
+                <e p="ProgressBar.cs" t="Include" />
+                <e p="ProgressRing.cs" t="Include" />
+                <e p="RecyclableListHandler.cs" t="Include" />
+                <e p="RecyclableListItem.cs" t="Include" />
+                <e p="SettingsPopup.cs" t="Include" />
+                <e p="ToggleSlider.cs" t="Include" />
+                <e p="ToggleSliderHandle.cs" t="Include" />
+                <e p="UIAnimation.cs" t="Include" />
+                <e p="UIAnimationBehaviour.cs" t="Include" />
+                <e p="UILine.cs" t="Include" />
+                <e p="UIMonoBehaviour.cs" t="Include" />
+              </e>
+              <e p="Utilities" t="Include">
+                <e p="AdjustRectTransformForSafeArea.cs" t="Include" />
+                <e p="CoroutineStarter.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="CustomEditorWindow.cs" t="Include" />
+                  <e p="EditorUtilities.cs" t="Include" />
+                </e>
+                <e p="InvokeOnMainThread.cs" t="Include" />
+                <e p="Logger.cs" t="Include" />
+                <e p="ObjectPool.cs" t="Include" />
+                <e p="ObjectSpawner.cs" t="Include" />
+                <e p="PoolObject.cs" t="Include" />
+                <e p="SimpleJSON.cs" t="Include" />
+                <e p="SingletonComponent.cs" t="Include" />
+                <e p="SingletonScriptableObject.cs" t="Include" />
+                <e p="SpawnObject.cs" t="Include" />
+                <e p="Utilities.cs" t="Include" />
+                <e p="Vector2Extension.cs" t="Include" />
+                <e p="Worker.cs" t="Include" />
+                <e p="WorkerBehaviour.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="LevelFiles" t="Include">
+            <e p="basic-10x10" t="Include">
+              <e p="10_10_1558628304001.json" t="Include" />
+              <e p="10_10_1558628305817.json" t="Include" />
+              <e p="10_10_1558628307653.json" t="Include" />
+              <e p="10_10_1558628309413.json" t="Include" />
+              <e p="10_10_1558628311345.json" t="Include" />
+              <e p="10_10_1558628313286.json" t="Include" />
+              <e p="10_10_1558628315087.json" t="Include" />
+              <e p="10_10_1558628316887.json" t="Include" />
+              <e p="10_10_1558628318787.json" t="Include" />
+              <e p="10_10_1558628320488.json" t="Include" />
+              <e p="10_10_1558628322187.json" t="Include" />
+              <e p="10_10_1558628324087.json" t="Include" />
+              <e p="10_10_1558628325688.json" t="Include" />
+              <e p="10_10_1558628327087.json" t="Include" />
+              <e p="10_10_1558628328888.json" t="Include" />
+              <e p="10_10_1558628330587.json" t="Include" />
+              <e p="10_10_1558628332388.json" t="Include" />
+              <e p="10_10_1558628334188.json" t="Include" />
+              <e p="10_10_1558628335997.json" t="Include" />
+              <e p="10_10_1558628337589.json" t="Include" />
+              <e p="10_10_1558628339287.json" t="Include" />
+              <e p="10_10_1558628341188.json" t="Include" />
+              <e p="10_10_1558628343187.json" t="Include" />
+              <e p="10_10_1558628345087.json" t="Include" />
+              <e p="10_10_1558628346587.json" t="Include" />
+              <e p="10_10_1558628348388.json" t="Include" />
+              <e p="10_10_1558628350187.json" t="Include" />
+              <e p="10_10_1558628351788.json" t="Include" />
+              <e p="10_10_1558628353588.json" t="Include" />
+              <e p="10_10_1558628355289.json" t="Include" />
+              <e p="10_10_1558628357588.json" t="Include" />
+              <e p="10_10_1558628359389.json" t="Include" />
+              <e p="10_10_1558628361087.json" t="Include" />
+              <e p="10_10_1558628363187.json" t="Include" />
+              <e p="10_10_1558628365087.json" t="Include" />
+              <e p="10_10_1558628366788.json" t="Include" />
+              <e p="10_10_1558628368588.json" t="Include" />
+              <e p="10_10_1558628370388.json" t="Include" />
+              <e p="10_10_1558628371989.json" t="Include" />
+              <e p="10_10_1558628373788.json" t="Include" />
+              <e p="10_10_1558628375488.json" t="Include" />
+              <e p="10_10_1558628377488.json" t="Include" />
+              <e p="10_10_1558628379288.json" t="Include" />
+              <e p="10_10_1558628381088.json" t="Include" />
+              <e p="10_10_1558628382889.json" t="Include" />
+              <e p="10_10_1558628384889.json" t="Include" />
+              <e p="10_10_1558628386789.json" t="Include" />
+              <e p="10_10_1558628388588.json" t="Include" />
+              <e p="10_10_1558628390290.json" t="Include" />
+              <e p="10_10_1558628392190.json" t="Include" />
+              <e p="10_10_1558628393890.json" t="Include" />
+              <e p="10_10_1558628395699.json" t="Include" />
+              <e p="10_10_1558628397289.json" t="Include" />
+              <e p="10_10_1558628398990.json" t="Include" />
+              <e p="10_10_1558628400890.json" t="Include" />
+              <e p="10_10_1558628402688.json" t="Include" />
+              <e p="10_10_1558628404690.json" t="Include" />
+              <e p="10_10_1558628406390.json" t="Include" />
+              <e p="10_10_1558628408190.json" t="Include" />
+              <e p="10_10_1558628410191.json" t="Include" />
+              <e p="10_10_1558628411989.json" t="Include" />
+              <e p="10_10_1558628413689.json" t="Include" />
+              <e p="10_10_1558628415390.json" t="Include" />
+              <e p="10_10_1558628417090.json" t="Include" />
+              <e p="10_10_1558628418790.json" t="Include" />
+              <e p="10_10_1558628420390.json" t="Include" />
+              <e p="10_10_1558628422090.json" t="Include" />
+              <e p="10_10_1558628423890.json" t="Include" />
+              <e p="10_10_1558628425598.json" t="Include" />
+              <e p="10_10_1558628427390.json" t="Include" />
+              <e p="10_10_1558628428991.json" t="Include" />
+              <e p="10_10_1558628430890.json" t="Include" />
+              <e p="10_10_1558628432690.json" t="Include" />
+              <e p="10_10_1558628434490.json" t="Include" />
+              <e p="10_10_1558628436490.json" t="Include" />
+              <e p="10_10_1558628438290.json" t="Include" />
+              <e p="10_10_1558628440289.json" t="Include" />
+              <e p="10_10_1558628442091.json" t="Include" />
+              <e p="10_10_1558628443891.json" t="Include" />
+              <e p="10_10_1558628445491.json" t="Include" />
+              <e p="10_10_1558628447290.json" t="Include" />
+              <e p="10_10_1558628448991.json" t="Include" />
+              <e p="10_10_1558628450891.json" t="Include" />
+              <e p="10_10_1558628452490.json" t="Include" />
+              <e p="10_10_1558628454091.json" t="Include" />
+              <e p="10_10_1558628455900.json" t="Include" />
+              <e p="10_10_1558628457491.json" t="Include" />
+              <e p="10_10_1558628459191.json" t="Include" />
+              <e p="10_10_1558628460991.json" t="Include" />
+              <e p="10_10_1558628462690.json" t="Include" />
+              <e p="10_10_1558628464291.json" t="Include" />
+              <e p="10_10_1558628465991.json" t="Include" />
+              <e p="10_10_1558628467692.json" t="Include" />
+              <e p="10_10_1558628469491.json" t="Include" />
+              <e p="10_10_1558628471291.json" t="Include" />
+              <e p="10_10_1558628472991.json" t="Include" />
+              <e p="10_10_1558628474792.json" t="Include" />
+              <e p="10_10_1558628476494.json" t="Include" />
+              <e p="10_10_1558628478195.json" t="Include" />
+              <e p="10_10_1558628479694.json" t="Include" />
+              <e p="10_10_1558628481595.json" t="Include" />
+              <e p="10_10_1558628483197.json" t="Include" />
+              <e p="10_10_1558628484897.json" t="Include" />
+              <e p="10_10_1558628486607.json" t="Include" />
+              <e p="10_10_1558628488499.json" t="Include" />
+              <e p="10_10_1558628490100.json" t="Include" />
+              <e p="10_10_1558628492000.json" t="Include" />
+              <e p="10_10_1558628493900.json" t="Include" />
+              <e p="10_10_1558628495601.json" t="Include" />
+              <e p="10_10_1558628497301.json" t="Include" />
+              <e p="10_10_1558628498901.json" t="Include" />
+              <e p="10_10_1558628500901.json" t="Include" />
+              <e p="10_10_1558628502702.json" t="Include" />
+              <e p="10_10_1558628504702.json" t="Include" />
+              <e p="10_10_1558628506303.json" t="Include" />
+              <e p="10_10_1558628508203.json" t="Include" />
+              <e p="10_10_1558628510003.json" t="Include" />
+              <e p="10_10_1558628511704.json" t="Include" />
+              <e p="10_10_1558628513404.json" t="Include" />
+              <e p="10_10_1558628515103.json" t="Include" />
+              <e p="10_10_1558628516804.json" t="Include" />
+              <e p="10_10_1558628518511.json" t="Include" />
+              <e p="10_10_1558628520203.json" t="Include" />
+              <e p="10_10_1558628521904.json" t="Include" />
+              <e p="10_10_1558628523404.json" t="Include" />
+              <e p="10_10_1558628525103.json" t="Include" />
+              <e p="10_10_1558628526704.json" t="Include" />
+              <e p="10_10_1558628528505.json" t="Include" />
+              <e p="10_10_1558628530203.json" t="Include" />
+              <e p="10_10_1558628531804.json" t="Include" />
+              <e p="10_10_1558628533905.json" t="Include" />
+              <e p="10_10_1558628535505.json" t="Include" />
+              <e p="10_10_1558628537205.json" t="Include" />
+              <e p="10_10_1558628539005.json" t="Include" />
+              <e p="10_10_1558628540604.json" t="Include" />
+              <e p="10_10_1558628542204.json" t="Include" />
+              <e p="10_10_1558628544105.json" t="Include" />
+              <e p="10_10_1558628545815.json" t="Include" />
+              <e p="10_10_1558628547604.json" t="Include" />
+              <e p="10_10_1558628549405.json" t="Include" />
+              <e p="10_10_1558628551105.json" t="Include" />
+              <e p="10_10_1558628552806.json" t="Include" />
+              <e p="10_10_1558628554606.json" t="Include" />
+              <e p="10_10_1558628556405.json" t="Include" />
+              <e p="10_10_1558628558105.json" t="Include" />
+              <e p="10_10_1558628559605.json" t="Include" />
+              <e p="10_10_1558628561206.json" t="Include" />
+              <e p="10_10_1558628563306.json" t="Include" />
+              <e p="10_10_1558628565006.json" t="Include" />
+              <e p="10_10_1558628566505.json" t="Include" />
+            </e>
+            <e p="basic-11x11" t="Include">
+              <e p="11_11_1558628588319.json" t="Include" />
+              <e p="11_11_1558628590571.json" t="Include" />
+              <e p="11_11_1558628592367.json" t="Include" />
+              <e p="11_11_1558628594195.json" t="Include" />
+              <e p="11_11_1558628595895.json" t="Include" />
+              <e p="11_11_1558628597772.json" t="Include" />
+              <e p="11_11_1558628599824.json" t="Include" />
+              <e p="11_11_1558628601955.json" t="Include" />
+              <e p="11_11_1558628603899.json" t="Include" />
+              <e p="11_11_1558628605921.json" t="Include" />
+              <e p="11_11_1558628607668.json" t="Include" />
+              <e p="11_11_1558628609600.json" t="Include" />
+              <e p="11_11_1558628611412.json" t="Include" />
+              <e p="11_11_1558628613472.json" t="Include" />
+              <e p="11_11_1558628615324.json" t="Include" />
+              <e p="11_11_1558628617300.json" t="Include" />
+              <e p="11_11_1558628619224.json" t="Include" />
+              <e p="11_11_1558628621265.json" t="Include" />
+              <e p="11_11_1558628623065.json" t="Include" />
+              <e p="11_11_1558628624865.json" t="Include" />
+              <e p="11_11_1558628626765.json" t="Include" />
+              <e p="11_11_1558628628565.json" t="Include" />
+              <e p="11_11_1558628630565.json" t="Include" />
+              <e p="11_11_1558628632466.json" t="Include" />
+              <e p="11_11_1558628634265.json" t="Include" />
+              <e p="11_11_1558628636065.json" t="Include" />
+              <e p="11_11_1558628638066.json" t="Include" />
+              <e p="11_11_1558628639865.json" t="Include" />
+              <e p="11_11_1558628641766.json" t="Include" />
+              <e p="11_11_1558628643665.json" t="Include" />
+              <e p="11_11_1558628645466.json" t="Include" />
+              <e p="11_11_1558628647565.json" t="Include" />
+              <e p="11_11_1558628649667.json" t="Include" />
+              <e p="11_11_1558628651666.json" t="Include" />
+              <e p="11_11_1558628653566.json" t="Include" />
+              <e p="11_11_1558628655567.json" t="Include" />
+              <e p="11_11_1558628657466.json" t="Include" />
+              <e p="11_11_1558628659466.json" t="Include" />
+              <e p="11_11_1558628661466.json" t="Include" />
+              <e p="11_11_1558628663467.json" t="Include" />
+              <e p="11_11_1558628665266.json" t="Include" />
+              <e p="11_11_1558628667166.json" t="Include" />
+              <e p="11_11_1558628669066.json" t="Include" />
+              <e p="11_11_1558628670867.json" t="Include" />
+              <e p="11_11_1558628672966.json" t="Include" />
+              <e p="11_11_1558628674766.json" t="Include" />
+              <e p="11_11_1558628676767.json" t="Include" />
+              <e p="11_11_1558628678767.json" t="Include" />
+              <e p="11_11_1558628680667.json" t="Include" />
+              <e p="11_11_1558628682267.json" t="Include" />
+              <e p="11_11_1558628684267.json" t="Include" />
+              <e p="11_11_1558628686168.json" t="Include" />
+              <e p="11_11_1558628688067.json" t="Include" />
+              <e p="11_11_1558628689967.json" t="Include" />
+              <e p="11_11_1558628691866.json" t="Include" />
+              <e p="11_11_1558628693667.json" t="Include" />
+              <e p="11_11_1558628695668.json" t="Include" />
+              <e p="11_11_1558628697866.json" t="Include" />
+              <e p="11_11_1558628699668.json" t="Include" />
+              <e p="11_11_1558628701867.json" t="Include" />
+              <e p="11_11_1558628703967.json" t="Include" />
+              <e p="11_11_1558628705968.json" t="Include" />
+              <e p="11_11_1558628707867.json" t="Include" />
+              <e p="11_11_1558628709868.json" t="Include" />
+              <e p="11_11_1558628711868.json" t="Include" />
+              <e p="11_11_1558628713768.json" t="Include" />
+              <e p="11_11_1558628715768.json" t="Include" />
+              <e p="11_11_1558628717668.json" t="Include" />
+              <e p="11_11_1558628719668.json" t="Include" />
+              <e p="11_11_1558628721569.json" t="Include" />
+              <e p="11_11_1558628723869.json" t="Include" />
+              <e p="11_11_1558628726269.json" t="Include" />
+              <e p="11_11_1558628728167.json" t="Include" />
+              <e p="11_11_1558628730468.json" t="Include" />
+              <e p="11_11_1558628732668.json" t="Include" />
+              <e p="11_11_1558628735468.json" t="Include" />
+              <e p="11_11_1558628737468.json" t="Include" />
+              <e p="11_11_1558628739268.json" t="Include" />
+              <e p="11_11_1558628741368.json" t="Include" />
+              <e p="11_11_1558628743368.json" t="Include" />
+              <e p="11_11_1558628745269.json" t="Include" />
+              <e p="11_11_1558628747569.json" t="Include" />
+              <e p="11_11_1558628749769.json" t="Include" />
+              <e p="11_11_1558628751669.json" t="Include" />
+              <e p="11_11_1558628753668.json" t="Include" />
+              <e p="11_11_1558628755678.json" t="Include" />
+              <e p="11_11_1558628757469.json" t="Include" />
+              <e p="11_11_1558628759769.json" t="Include" />
+              <e p="11_11_1558628761870.json" t="Include" />
+              <e p="11_11_1558628764069.json" t="Include" />
+              <e p="11_11_1558628766069.json" t="Include" />
+              <e p="11_11_1558628768169.json" t="Include" />
+              <e p="11_11_1558628770270.json" t="Include" />
+              <e p="11_11_1558628772470.json" t="Include" />
+              <e p="11_11_1558628774171.json" t="Include" />
+              <e p="11_11_1558628776270.json" t="Include" />
+              <e p="11_11_1558628778470.json" t="Include" />
+              <e p="11_11_1558628780370.json" t="Include" />
+              <e p="11_11_1558628782270.json" t="Include" />
+              <e p="11_11_1558628784270.json" t="Include" />
+              <e p="11_11_1558628786279.json" t="Include" />
+              <e p="11_11_1558628788071.json" t="Include" />
+              <e p="11_11_1558628789971.json" t="Include" />
+              <e p="11_11_1558628791870.json" t="Include" />
+              <e p="11_11_1558628793970.json" t="Include" />
+              <e p="11_11_1558628795971.json" t="Include" />
+              <e p="11_11_1558628798171.json" t="Include" />
+              <e p="11_11_1558628800071.json" t="Include" />
+              <e p="11_11_1558628801971.json" t="Include" />
+              <e p="11_11_1558628803770.json" t="Include" />
+              <e p="11_11_1558628805671.json" t="Include" />
+              <e p="11_11_1558628807571.json" t="Include" />
+              <e p="11_11_1558628809372.json" t="Include" />
+              <e p="11_11_1558628811171.json" t="Include" />
+              <e p="11_11_1558628813471.json" t="Include" />
+              <e p="11_11_1558628815583.json" t="Include" />
+              <e p="11_11_1558628817471.json" t="Include" />
+              <e p="11_11_1558628819071.json" t="Include" />
+              <e p="11_11_1558628820970.json" t="Include" />
+              <e p="11_11_1558628822772.json" t="Include" />
+              <e p="11_11_1558628824672.json" t="Include" />
+              <e p="11_11_1558628826671.json" t="Include" />
+              <e p="11_11_1558628828571.json" t="Include" />
+              <e p="11_11_1558628830671.json" t="Include" />
+              <e p="11_11_1558628832671.json" t="Include" />
+              <e p="11_11_1558628834472.json" t="Include" />
+              <e p="11_11_1558628836572.json" t="Include" />
+              <e p="11_11_1558628838470.json" t="Include" />
+              <e p="11_11_1558628840472.json" t="Include" />
+              <e p="11_11_1558628842472.json" t="Include" />
+              <e p="11_11_1558628844372.json" t="Include" />
+              <e p="11_11_1558628846389.json" t="Include" />
+              <e p="11_11_1558628848173.json" t="Include" />
+              <e p="11_11_1558628850072.json" t="Include" />
+              <e p="11_11_1558628851972.json" t="Include" />
+              <e p="11_11_1558628853871.json" t="Include" />
+              <e p="11_11_1558628855772.json" t="Include" />
+              <e p="11_11_1558628857772.json" t="Include" />
+              <e p="11_11_1558628859673.json" t="Include" />
+              <e p="11_11_1558628861472.json" t="Include" />
+              <e p="11_11_1558628863473.json" t="Include" />
+              <e p="11_11_1558628865472.json" t="Include" />
+              <e p="11_11_1558628867172.json" t="Include" />
+              <e p="11_11_1558628869073.json" t="Include" />
+              <e p="11_11_1558628870972.json" t="Include" />
+              <e p="11_11_1558628872973.json" t="Include" />
+              <e p="11_11_1558628874873.json" t="Include" />
+              <e p="11_11_1558628876883.json" t="Include" />
+              <e p="11_11_1558628878973.json" t="Include" />
+              <e p="11_11_1558628880873.json" t="Include" />
+            </e>
+            <e p="basic-5x5" t="Include">
+              <e p="5_5_1558555462895.json" t="Include" />
+              <e p="5_5_1558555463788.json" t="Include" />
+              <e p="5_5_1558555464536.json" t="Include" />
+              <e p="5_5_1558555465280.json" t="Include" />
+              <e p="5_5_1558555466036.json" t="Include" />
+              <e p="5_5_1558555466808.json" t="Include" />
+              <e p="5_5_1558555467588.json" t="Include" />
+              <e p="5_5_1558555468325.json" t="Include" />
+              <e p="5_5_1558555469128.json" t="Include" />
+              <e p="5_5_1558555469896.json" t="Include" />
+              <e p="5_5_1558555470645.json" t="Include" />
+              <e p="5_5_1558555471412.json" t="Include" />
+              <e p="5_5_1558555472161.json" t="Include" />
+              <e p="5_5_1558555472888.json" t="Include" />
+              <e p="5_5_1558555473669.json" t="Include" />
+              <e p="5_5_1558555474408.json" t="Include" />
+              <e p="5_5_1558555475217.json" t="Include" />
+              <e p="5_5_1558555475957.json" t="Include" />
+              <e p="5_5_1558555476693.json" t="Include" />
+              <e p="5_5_1558555477425.json" t="Include" />
+              <e p="5_5_1558555478160.json" t="Include" />
+              <e p="5_5_1558555478929.json" t="Include" />
+              <e p="5_5_1558555479677.json" t="Include" />
+              <e p="5_5_1558555480481.json" t="Include" />
+              <e p="5_5_1558555481249.json" t="Include" />
+              <e p="5_5_1558555547613.json" t="Include" />
+              <e p="5_5_1558555548474.json" t="Include" />
+              <e p="5_5_1558555549243.json" t="Include" />
+              <e p="5_5_1558555550030.json" t="Include" />
+              <e p="5_5_1558555550791.json" t="Include" />
+              <e p="5_5_1558555551531.json" t="Include" />
+              <e p="5_5_1558555552303.json" t="Include" />
+              <e p="5_5_1558555553079.json" t="Include" />
+              <e p="5_5_1558555553867.json" t="Include" />
+              <e p="5_5_1558555554619.json" t="Include" />
+              <e p="5_5_1558555555399.json" t="Include" />
+              <e p="5_5_1558555556151.json" t="Include" />
+              <e p="5_5_1558555556955.json" t="Include" />
+              <e p="5_5_1558555557727.json" t="Include" />
+              <e p="5_5_1558555558495.json" t="Include" />
+              <e p="5_5_1558555559287.json" t="Include" />
+              <e p="5_5_1558555560039.json" t="Include" />
+              <e p="5_5_1558555560811.json" t="Include" />
+              <e p="5_5_1558555561591.json" t="Include" />
+              <e p="5_5_1558555562391.json" t="Include" />
+              <e p="5_5_1558555563159.json" t="Include" />
+              <e p="5_5_1558555563879.json" t="Include" />
+              <e p="5_5_1558555564640.json" t="Include" />
+              <e p="5_5_1558555565435.json" t="Include" />
+              <e p="5_5_1558555566183.json" t="Include" />
+            </e>
+            <e p="basic-6x6" t="Include">
+              <e p="6_6_1558626159029.json" t="Include" />
+              <e p="6_6_1558626160330.json" t="Include" />
+              <e p="6_6_1558626161509.json" t="Include" />
+              <e p="6_6_1558626162617.json" t="Include" />
+              <e p="6_6_1558626163729.json" t="Include" />
+              <e p="6_6_1558626165406.json" t="Include" />
+              <e p="6_6_1558626166498.json" t="Include" />
+              <e p="6_6_1558626167653.json" t="Include" />
+              <e p="6_6_1558626169099.json" t="Include" />
+              <e p="6_6_1558626170301.json" t="Include" />
+              <e p="6_6_1558626171500.json" t="Include" />
+              <e p="6_6_1558626173200.json" t="Include" />
+              <e p="6_6_1558626174500.json" t="Include" />
+              <e p="6_6_1558626175610.json" t="Include" />
+              <e p="6_6_1558626176699.json" t="Include" />
+              <e p="6_6_1558626177699.json" t="Include" />
+              <e p="6_6_1558626178800.json" t="Include" />
+              <e p="6_6_1558626180199.json" t="Include" />
+              <e p="6_6_1558626181300.json" t="Include" />
+              <e p="6_6_1558626182299.json" t="Include" />
+              <e p="6_6_1558626183299.json" t="Include" />
+              <e p="6_6_1558626184400.json" t="Include" />
+              <e p="6_6_1558626185399.json" t="Include" />
+              <e p="6_6_1558626186400.json" t="Include" />
+              <e p="6_6_1558626187401.json" t="Include" />
+              <e p="6_6_1558626188400.json" t="Include" />
+              <e p="6_6_1558626189401.json" t="Include" />
+              <e p="6_6_1558626190501.json" t="Include" />
+              <e p="6_6_1558626191800.json" t="Include" />
+              <e p="6_6_1558626193500.json" t="Include" />
+              <e p="6_6_1558626194800.json" t="Include" />
+              <e p="6_6_1558626195801.json" t="Include" />
+              <e p="6_6_1558626196800.json" t="Include" />
+              <e p="6_6_1558626197801.json" t="Include" />
+              <e p="6_6_1558626198800.json" t="Include" />
+              <e p="6_6_1558626199801.json" t="Include" />
+              <e p="6_6_1558626200800.json" t="Include" />
+              <e p="6_6_1558626201800.json" t="Include" />
+              <e p="6_6_1558626202800.json" t="Include" />
+              <e p="6_6_1558626203901.json" t="Include" />
+              <e p="6_6_1558626205001.json" t="Include" />
+              <e p="6_6_1558626206100.json" t="Include" />
+              <e p="6_6_1558626207101.json" t="Include" />
+              <e p="6_6_1558626208200.json" t="Include" />
+              <e p="6_6_1558626209200.json" t="Include" />
+              <e p="6_6_1558626210301.json" t="Include" />
+              <e p="6_6_1558626211401.json" t="Include" />
+              <e p="6_6_1558626212401.json" t="Include" />
+              <e p="6_6_1558626213401.json" t="Include" />
+              <e p="6_6_1558626214402.json" t="Include" />
+              <e p="6_6_1558626215401.json" t="Include" />
+              <e p="6_6_1558626216401.json" t="Include" />
+              <e p="6_6_1558626217502.json" t="Include" />
+              <e p="6_6_1558626218501.json" t="Include" />
+              <e p="6_6_1558626219501.json" t="Include" />
+              <e p="6_6_1558626220500.json" t="Include" />
+              <e p="6_6_1558626221501.json" t="Include" />
+              <e p="6_6_1558626222501.json" t="Include" />
+              <e p="6_6_1558626223502.json" t="Include" />
+              <e p="6_6_1558626224601.json" t="Include" />
+              <e p="6_6_1558626225602.json" t="Include" />
+              <e p="6_6_1558626226602.json" t="Include" />
+              <e p="6_6_1558626227601.json" t="Include" />
+              <e p="6_6_1558626228601.json" t="Include" />
+              <e p="6_6_1558626229702.json" t="Include" />
+              <e p="6_6_1558626230701.json" t="Include" />
+              <e p="6_6_1558626231702.json" t="Include" />
+              <e p="6_6_1558626232702.json" t="Include" />
+              <e p="6_6_1558626233801.json" t="Include" />
+              <e p="6_6_1558626234802.json" t="Include" />
+              <e p="6_6_1558626235911.json" t="Include" />
+              <e p="6_6_1558626236901.json" t="Include" />
+              <e p="6_6_1558626237901.json" t="Include" />
+              <e p="6_6_1558626238901.json" t="Include" />
+              <e p="6_6_1558626239902.json" t="Include" />
+              <e p="6_6_1558626241003.json" t="Include" />
+              <e p="6_6_1558626242002.json" t="Include" />
+              <e p="6_6_1558626243001.json" t="Include" />
+              <e p="6_6_1558626244002.json" t="Include" />
+              <e p="6_6_1558626245002.json" t="Include" />
+              <e p="6_6_1558626246002.json" t="Include" />
+              <e p="6_6_1558626247002.json" t="Include" />
+              <e p="6_6_1558626248001.json" t="Include" />
+              <e p="6_6_1558626249101.json" t="Include" />
+              <e p="6_6_1558626250102.json" t="Include" />
+              <e p="6_6_1558626251202.json" t="Include" />
+              <e p="6_6_1558626252203.json" t="Include" />
+              <e p="6_6_1558626253202.json" t="Include" />
+              <e p="6_6_1558626254202.json" t="Include" />
+              <e p="6_6_1558626255202.json" t="Include" />
+              <e p="6_6_1558626256303.json" t="Include" />
+              <e p="6_6_1558626257402.json" t="Include" />
+              <e p="6_6_1558626258503.json" t="Include" />
+              <e p="6_6_1558626259502.json" t="Include" />
+              <e p="6_6_1558626260502.json" t="Include" />
+              <e p="6_6_1558626261502.json" t="Include" />
+              <e p="6_6_1558626262603.json" t="Include" />
+              <e p="6_6_1558626263602.json" t="Include" />
+              <e p="6_6_1558626264603.json" t="Include" />
+              <e p="6_6_1558626265603.json" t="Include" />
+              <e p="6_6_1558626266702.json" t="Include" />
+              <e p="6_6_1558626267703.json" t="Include" />
+              <e p="6_6_1558626268703.json" t="Include" />
+              <e p="6_6_1558626269703.json" t="Include" />
+              <e p="6_6_1558626270702.json" t="Include" />
+              <e p="6_6_1558626271703.json" t="Include" />
+              <e p="6_6_1558626272710.json" t="Include" />
+              <e p="6_6_1558626273803.json" t="Include" />
+              <e p="6_6_1558626274904.json" t="Include" />
+              <e p="6_6_1558626276003.json" t="Include" />
+              <e p="6_6_1558626277002.json" t="Include" />
+              <e p="6_6_1558626278002.json" t="Include" />
+              <e p="6_6_1558626279003.json" t="Include" />
+              <e p="6_6_1558626280002.json" t="Include" />
+              <e p="6_6_1558626281003.json" t="Include" />
+              <e p="6_6_1558626282105.json" t="Include" />
+              <e p="6_6_1558626283203.json" t="Include" />
+              <e p="6_6_1558626284402.json" t="Include" />
+              <e p="6_6_1558626285503.json" t="Include" />
+              <e p="6_6_1558626286503.json" t="Include" />
+              <e p="6_6_1558626287504.json" t="Include" />
+              <e p="6_6_1558626288503.json" t="Include" />
+              <e p="6_6_1558626289502.json" t="Include" />
+              <e p="6_6_1558626290503.json" t="Include" />
+              <e p="6_6_1558626291504.json" t="Include" />
+              <e p="6_6_1558626292504.json" t="Include" />
+              <e p="6_6_1558626293504.json" t="Include" />
+              <e p="6_6_1558626294503.json" t="Include" />
+              <e p="6_6_1558626295504.json" t="Include" />
+              <e p="6_6_1558626296403.json" t="Include" />
+              <e p="6_6_1558626297404.json" t="Include" />
+              <e p="6_6_1558626298404.json" t="Include" />
+              <e p="6_6_1558626299504.json" t="Include" />
+              <e p="6_6_1558626300604.json" t="Include" />
+              <e p="6_6_1558626301603.json" t="Include" />
+              <e p="6_6_1558626302704.json" t="Include" />
+              <e p="6_6_1558626303704.json" t="Include" />
+              <e p="6_6_1558626304704.json" t="Include" />
+              <e p="6_6_1558626305704.json" t="Include" />
+              <e p="6_6_1558626306703.json" t="Include" />
+              <e p="6_6_1558626307805.json" t="Include" />
+              <e p="6_6_1558626308903.json" t="Include" />
+              <e p="6_6_1558626309903.json" t="Include" />
+              <e p="6_6_1558626310803.json" t="Include" />
+              <e p="6_6_1558626311804.json" t="Include" />
+              <e p="6_6_1558626312904.json" t="Include" />
+              <e p="6_6_1558626313904.json" t="Include" />
+              <e p="6_6_1558626314903.json" t="Include" />
+              <e p="6_6_1558626316005.json" t="Include" />
+              <e p="6_6_1558626317005.json" t="Include" />
+            </e>
+            <e p="basic-7x7" t="Include">
+              <e p="7_7_1558626366638.json" t="Include" />
+              <e p="7_7_1558626367857.json" t="Include" />
+              <e p="7_7_1558626368973.json" t="Include" />
+              <e p="7_7_1558626370149.json" t="Include" />
+              <e p="7_7_1558626371348.json" t="Include" />
+              <e p="7_7_1558626504328.json" t="Include" />
+              <e p="7_7_1558626506519.json" t="Include" />
+              <e p="7_7_1558626507941.json" t="Include" />
+              <e p="7_7_1558626509341.json" t="Include" />
+              <e p="7_7_1558626510541.json" t="Include" />
+              <e p="7_7_1558626511742.json" t="Include" />
+              <e p="7_7_1558626512942.json" t="Include" />
+              <e p="7_7_1558626514142.json" t="Include" />
+              <e p="7_7_1558626515442.json" t="Include" />
+              <e p="7_7_1558626516542.json" t="Include" />
+              <e p="7_7_1558626517742.json" t="Include" />
+              <e p="7_7_1558626518943.json" t="Include" />
+              <e p="7_7_1558626520142.json" t="Include" />
+              <e p="7_7_1558626521442.json" t="Include" />
+              <e p="7_7_1558626522743.json" t="Include" />
+              <e p="7_7_1558626523943.json" t="Include" />
+              <e p="7_7_1558626525043.json" t="Include" />
+              <e p="7_7_1558626526243.json" t="Include" />
+              <e p="7_7_1558626527444.json" t="Include" />
+              <e p="7_7_1558626528643.json" t="Include" />
+              <e p="7_7_1558626529844.json" t="Include" />
+              <e p="7_7_1558626530944.json" t="Include" />
+              <e p="7_7_1558626532144.json" t="Include" />
+              <e p="7_7_1558626533345.json" t="Include" />
+              <e p="7_7_1558626534544.json" t="Include" />
+              <e p="7_7_1558626535753.json" t="Include" />
+              <e p="7_7_1558626536945.json" t="Include" />
+              <e p="7_7_1558626538144.json" t="Include" />
+              <e p="7_7_1558626539344.json" t="Include" />
+              <e p="7_7_1558626540545.json" t="Include" />
+              <e p="7_7_1558626541745.json" t="Include" />
+              <e p="7_7_1558626542944.json" t="Include" />
+              <e p="7_7_1558626544045.json" t="Include" />
+              <e p="7_7_1558626545245.json" t="Include" />
+              <e p="7_7_1558626546445.json" t="Include" />
+              <e p="7_7_1558626547645.json" t="Include" />
+              <e p="7_7_1558626548844.json" t="Include" />
+              <e p="7_7_1558626549944.json" t="Include" />
+              <e p="7_7_1558626551245.json" t="Include" />
+              <e p="7_7_1558626552445.json" t="Include" />
+              <e p="7_7_1558626553645.json" t="Include" />
+              <e p="7_7_1558626554746.json" t="Include" />
+              <e p="7_7_1558626555945.json" t="Include" />
+              <e p="7_7_1558626557146.json" t="Include" />
+              <e p="7_7_1558626558246.json" t="Include" />
+              <e p="7_7_1558626559546.json" t="Include" />
+              <e p="7_7_1558626560745.json" t="Include" />
+              <e p="7_7_1558626561845.json" t="Include" />
+              <e p="7_7_1558626563045.json" t="Include" />
+              <e p="7_7_1558626564246.json" t="Include" />
+              <e p="7_7_1558626565446.json" t="Include" />
+              <e p="7_7_1558626566646.json" t="Include" />
+              <e p="7_7_1558626567946.json" t="Include" />
+              <e p="7_7_1558626569145.json" t="Include" />
+              <e p="7_7_1558626570445.json" t="Include" />
+              <e p="7_7_1558626571745.json" t="Include" />
+              <e p="7_7_1558626572947.json" t="Include" />
+              <e p="7_7_1558626574146.json" t="Include" />
+              <e p="7_7_1558626575245.json" t="Include" />
+              <e p="7_7_1558626576546.json" t="Include" />
+              <e p="7_7_1558626577746.json" t="Include" />
+              <e p="7_7_1558626578946.json" t="Include" />
+              <e p="7_7_1558626580146.json" t="Include" />
+              <e p="7_7_1558626581347.json" t="Include" />
+              <e p="7_7_1558626582546.json" t="Include" />
+              <e p="7_7_1558626583946.json" t="Include" />
+              <e p="7_7_1558626585146.json" t="Include" />
+              <e p="7_7_1558626586245.json" t="Include" />
+              <e p="7_7_1558626587446.json" t="Include" />
+              <e p="7_7_1558626588745.json" t="Include" />
+              <e p="7_7_1558626589946.json" t="Include" />
+              <e p="7_7_1558626591147.json" t="Include" />
+              <e p="7_7_1558626592346.json" t="Include" />
+              <e p="7_7_1558626593646.json" t="Include" />
+              <e p="7_7_1558626594947.json" t="Include" />
+              <e p="7_7_1558626596746.json" t="Include" />
+              <e p="7_7_1558626598447.json" t="Include" />
+              <e p="7_7_1558626599847.json" t="Include" />
+              <e p="7_7_1558626601247.json" t="Include" />
+              <e p="7_7_1558626602546.json" t="Include" />
+              <e p="7_7_1558626603857.json" t="Include" />
+              <e p="7_7_1558626605047.json" t="Include" />
+              <e p="7_7_1558626606346.json" t="Include" />
+              <e p="7_7_1558626607546.json" t="Include" />
+              <e p="7_7_1558626608747.json" t="Include" />
+              <e p="7_7_1558626609947.json" t="Include" />
+              <e p="7_7_1558626611147.json" t="Include" />
+              <e p="7_7_1558626612246.json" t="Include" />
+              <e p="7_7_1558626613447.json" t="Include" />
+              <e p="7_7_1558626614648.json" t="Include" />
+              <e p="7_7_1558626615847.json" t="Include" />
+              <e p="7_7_1558626616947.json" t="Include" />
+              <e p="7_7_1558626618048.json" t="Include" />
+              <e p="7_7_1558626619248.json" t="Include" />
+              <e p="7_7_1558626620447.json" t="Include" />
+              <e p="7_7_1558626621648.json" t="Include" />
+              <e p="7_7_1558626622847.json" t="Include" />
+              <e p="7_7_1558626623947.json" t="Include" />
+              <e p="7_7_1558626625048.json" t="Include" />
+              <e p="7_7_1558626626246.json" t="Include" />
+              <e p="7_7_1558626627448.json" t="Include" />
+              <e p="7_7_1558626628648.json" t="Include" />
+              <e p="7_7_1558626629847.json" t="Include" />
+              <e p="7_7_1558626630948.json" t="Include" />
+              <e p="7_7_1558626632148.json" t="Include" />
+              <e p="7_7_1558626633348.json" t="Include" />
+              <e p="7_7_1558626634548.json" t="Include" />
+              <e p="7_7_1558626635747.json" t="Include" />
+              <e p="7_7_1558626636848.json" t="Include" />
+              <e p="7_7_1558626638048.json" t="Include" />
+              <e p="7_7_1558626639149.json" t="Include" />
+              <e p="7_7_1558626640348.json" t="Include" />
+              <e p="7_7_1558626641548.json" t="Include" />
+              <e p="7_7_1558626642749.json" t="Include" />
+              <e p="7_7_1558626643948.json" t="Include" />
+              <e p="7_7_1558626645148.json" t="Include" />
+              <e p="7_7_1558626646247.json" t="Include" />
+              <e p="7_7_1558626647348.json" t="Include" />
+              <e p="7_7_1558626648548.json" t="Include" />
+              <e p="7_7_1558626649749.json" t="Include" />
+              <e p="7_7_1558626650948.json" t="Include" />
+              <e p="7_7_1558626652148.json" t="Include" />
+              <e p="7_7_1558626653348.json" t="Include" />
+              <e p="7_7_1558626654549.json" t="Include" />
+              <e p="7_7_1558626655748.json" t="Include" />
+              <e p="7_7_1558626656950.json" t="Include" />
+              <e p="7_7_1558626658248.json" t="Include" />
+              <e p="7_7_1558626659848.json" t="Include" />
+              <e p="7_7_1558626661148.json" t="Include" />
+              <e p="7_7_1558626662549.json" t="Include" />
+              <e p="7_7_1558626663748.json" t="Include" />
+              <e p="7_7_1558626665048.json" t="Include" />
+              <e p="7_7_1558626666448.json" t="Include" />
+              <e p="7_7_1558626667649.json" t="Include" />
+              <e p="7_7_1558626668849.json" t="Include" />
+              <e p="7_7_1558626669949.json" t="Include" />
+              <e p="7_7_1558626671149.json" t="Include" />
+              <e p="7_7_1558626672349.json" t="Include" />
+              <e p="7_7_1558626673649.json" t="Include" />
+              <e p="7_7_1558626675449.json" t="Include" />
+              <e p="7_7_1558626677049.json" t="Include" />
+              <e p="7_7_1558626678349.json" t="Include" />
+              <e p="7_7_1558626679549.json" t="Include" />
+              <e p="7_7_1558626680750.json" t="Include" />
+              <e p="7_7_1558626681949.json" t="Include" />
+            </e>
+            <e p="basic-8x8" t="Include">
+              <e p="8_8_1558627679453.json" t="Include" />
+              <e p="8_8_1558627680861.json" t="Include" />
+              <e p="8_8_1558627682193.json" t="Include" />
+              <e p="8_8_1558627683690.json" t="Include" />
+              <e p="8_8_1558627685090.json" t="Include" />
+              <e p="8_8_1558627686489.json" t="Include" />
+              <e p="8_8_1558627688190.json" t="Include" />
+              <e p="8_8_1558627689489.json" t="Include" />
+              <e p="8_8_1558627690790.json" t="Include" />
+              <e p="8_8_1558627692190.json" t="Include" />
+              <e p="8_8_1558627693589.json" t="Include" />
+              <e p="8_8_1558627694889.json" t="Include" />
+              <e p="8_8_1558627696099.json" t="Include" />
+              <e p="8_8_1558627697390.json" t="Include" />
+              <e p="8_8_1558627698690.json" t="Include" />
+              <e p="8_8_1558627700090.json" t="Include" />
+              <e p="8_8_1558627701390.json" t="Include" />
+              <e p="8_8_1558627702690.json" t="Include" />
+              <e p="8_8_1558627704090.json" t="Include" />
+              <e p="8_8_1558627705498.json" t="Include" />
+              <e p="8_8_1558627706890.json" t="Include" />
+              <e p="8_8_1558627708290.json" t="Include" />
+              <e p="8_8_1558627709590.json" t="Include" />
+              <e p="8_8_1558627710891.json" t="Include" />
+              <e p="8_8_1558627712291.json" t="Include" />
+              <e p="8_8_1558627713590.json" t="Include" />
+              <e p="8_8_1558627714991.json" t="Include" />
+              <e p="8_8_1558627716291.json" t="Include" />
+              <e p="8_8_1558627717591.json" t="Include" />
+              <e p="8_8_1558627718891.json" t="Include" />
+              <e p="8_8_1558627720190.json" t="Include" />
+              <e p="8_8_1558627721590.json" t="Include" />
+              <e p="8_8_1558627722990.json" t="Include" />
+              <e p="8_8_1558627724290.json" t="Include" />
+              <e p="8_8_1558627725590.json" t="Include" />
+              <e p="8_8_1558627726890.json" t="Include" />
+              <e p="8_8_1558627728290.json" t="Include" />
+              <e p="8_8_1558627729491.json" t="Include" />
+              <e p="8_8_1558627730891.json" t="Include" />
+              <e p="8_8_1558627732191.json" t="Include" />
+              <e p="8_8_1558627733391.json" t="Include" />
+              <e p="8_8_1558627734691.json" t="Include" />
+              <e p="8_8_1558627736000.json" t="Include" />
+              <e p="8_8_1558627737492.json" t="Include" />
+              <e p="8_8_1558627738892.json" t="Include" />
+              <e p="8_8_1558627740191.json" t="Include" />
+              <e p="8_8_1558627741492.json" t="Include" />
+              <e p="8_8_1558627742791.json" t="Include" />
+              <e p="8_8_1558627744190.json" t="Include" />
+              <e p="8_8_1558627745591.json" t="Include" />
+              <e p="8_8_1558627746892.json" t="Include" />
+              <e p="8_8_1558627748091.json" t="Include" />
+              <e p="8_8_1558627749292.json" t="Include" />
+              <e p="8_8_1558627750592.json" t="Include" />
+              <e p="8_8_1558627751891.json" t="Include" />
+              <e p="8_8_1558627753191.json" t="Include" />
+              <e p="8_8_1558627754592.json" t="Include" />
+              <e p="8_8_1558627755992.json" t="Include" />
+              <e p="8_8_1558627757391.json" t="Include" />
+              <e p="8_8_1558627758791.json" t="Include" />
+              <e p="8_8_1558627760192.json" t="Include" />
+              <e p="8_8_1558627761691.json" t="Include" />
+              <e p="8_8_1558627763191.json" t="Include" />
+              <e p="8_8_1558627764591.json" t="Include" />
+              <e p="8_8_1558627766001.json" t="Include" />
+              <e p="8_8_1558627767393.json" t="Include" />
+              <e p="8_8_1558627768693.json" t="Include" />
+              <e p="8_8_1558627769992.json" t="Include" />
+              <e p="8_8_1558627771392.json" t="Include" />
+              <e p="8_8_1558627772893.json" t="Include" />
+              <e p="8_8_1558627774291.json" t="Include" />
+              <e p="8_8_1558627775592.json" t="Include" />
+              <e p="8_8_1558627776892.json" t="Include" />
+              <e p="8_8_1558627778292.json" t="Include" />
+              <e p="8_8_1558627779693.json" t="Include" />
+              <e p="8_8_1558627781092.json" t="Include" />
+              <e p="8_8_1558627782392.json" t="Include" />
+              <e p="8_8_1558627783693.json" t="Include" />
+              <e p="8_8_1558627784992.json" t="Include" />
+              <e p="8_8_1558627786293.json" t="Include" />
+              <e p="8_8_1558627787593.json" t="Include" />
+              <e p="8_8_1558627789092.json" t="Include" />
+              <e p="8_8_1558627790993.json" t="Include" />
+              <e p="8_8_1558627792293.json" t="Include" />
+              <e p="8_8_1558627793693.json" t="Include" />
+              <e p="8_8_1558627795092.json" t="Include" />
+              <e p="8_8_1558627796492.json" t="Include" />
+              <e p="8_8_1558627798094.json" t="Include" />
+              <e p="8_8_1558627800193.json" t="Include" />
+              <e p="8_8_1558627801593.json" t="Include" />
+              <e p="8_8_1558627803093.json" t="Include" />
+              <e p="8_8_1558627804493.json" t="Include" />
+              <e p="8_8_1558627805793.json" t="Include" />
+              <e p="8_8_1558627807193.json" t="Include" />
+              <e p="8_8_1558627808693.json" t="Include" />
+              <e p="8_8_1558627810093.json" t="Include" />
+              <e p="8_8_1558627811393.json" t="Include" />
+              <e p="8_8_1558627812793.json" t="Include" />
+              <e p="8_8_1558627814193.json" t="Include" />
+              <e p="8_8_1558627815493.json" t="Include" />
+              <e p="8_8_1558627816893.json" t="Include" />
+              <e p="8_8_1558627818293.json" t="Include" />
+              <e p="8_8_1558627819694.json" t="Include" />
+              <e p="8_8_1558627821292.json" t="Include" />
+              <e p="8_8_1558627822694.json" t="Include" />
+              <e p="8_8_1558627824093.json" t="Include" />
+              <e p="8_8_1558627825402.json" t="Include" />
+              <e p="8_8_1558627826694.json" t="Include" />
+              <e p="8_8_1558627828094.json" t="Include" />
+              <e p="8_8_1558627829494.json" t="Include" />
+              <e p="8_8_1558627830793.json" t="Include" />
+              <e p="8_8_1558627832094.json" t="Include" />
+              <e p="8_8_1558627833493.json" t="Include" />
+              <e p="8_8_1558627834895.json" t="Include" />
+              <e p="8_8_1558627836193.json" t="Include" />
+              <e p="8_8_1558627837594.json" t="Include" />
+              <e p="8_8_1558627838894.json" t="Include" />
+              <e p="8_8_1558627840194.json" t="Include" />
+              <e p="8_8_1558627841394.json" t="Include" />
+              <e p="8_8_1558627842794.json" t="Include" />
+              <e p="8_8_1558627844094.json" t="Include" />
+              <e p="8_8_1558627845394.json" t="Include" />
+              <e p="8_8_1558627846796.json" t="Include" />
+              <e p="8_8_1558627848095.json" t="Include" />
+              <e p="8_8_1558627849395.json" t="Include" />
+              <e p="8_8_1558627850795.json" t="Include" />
+              <e p="8_8_1558627852195.json" t="Include" />
+              <e p="8_8_1558627853495.json" t="Include" />
+              <e p="8_8_1558627854896.json" t="Include" />
+              <e p="8_8_1558627856294.json" t="Include" />
+              <e p="8_8_1558627857594.json" t="Include" />
+              <e p="8_8_1558627858895.json" t="Include" />
+              <e p="8_8_1558627860095.json" t="Include" />
+              <e p="8_8_1558627861495.json" t="Include" />
+              <e p="8_8_1558627862895.json" t="Include" />
+              <e p="8_8_1558627864195.json" t="Include" />
+              <e p="8_8_1558627865395.json" t="Include" />
+              <e p="8_8_1558627866595.json" t="Include" />
+              <e p="8_8_1558627867895.json" t="Include" />
+              <e p="8_8_1558627869195.json" t="Include" />
+              <e p="8_8_1558627870596.json" t="Include" />
+              <e p="8_8_1558627871895.json" t="Include" />
+              <e p="8_8_1558627873195.json" t="Include" />
+              <e p="8_8_1558627874495.json" t="Include" />
+              <e p="8_8_1558627875694.json" t="Include" />
+              <e p="8_8_1558627877096.json" t="Include" />
+              <e p="8_8_1558627878495.json" t="Include" />
+              <e p="8_8_1558627879896.json" t="Include" />
+              <e p="8_8_1558627881295.json" t="Include" />
+              <e p="8_8_1558627882694.json" t="Include" />
+            </e>
+            <e p="basic-9x9" t="Include">
+              <e p="9_9_1558627898695.json" t="Include" />
+              <e p="9_9_1558627900395.json" t="Include" />
+              <e p="9_9_1558627901879.json" t="Include" />
+              <e p="9_9_1558627903351.json" t="Include" />
+              <e p="9_9_1558627904808.json" t="Include" />
+              <e p="9_9_1558627906814.json" t="Include" />
+              <e p="9_9_1558627908914.json" t="Include" />
+              <e p="9_9_1558627910414.json" t="Include" />
+              <e p="9_9_1558627911914.json" t="Include" />
+              <e p="9_9_1558627913515.json" t="Include" />
+              <e p="9_9_1558627914914.json" t="Include" />
+              <e p="9_9_1558627916414.json" t="Include" />
+              <e p="9_9_1558627917914.json" t="Include" />
+              <e p="9_9_1558627919315.json" t="Include" />
+              <e p="9_9_1558627920814.json" t="Include" />
+              <e p="9_9_1558627922515.json" t="Include" />
+              <e p="9_9_1558627924215.json" t="Include" />
+              <e p="9_9_1558627925814.json" t="Include" />
+              <e p="9_9_1558627927415.json" t="Include" />
+              <e p="9_9_1558627929115.json" t="Include" />
+              <e p="9_9_1558627930715.json" t="Include" />
+              <e p="9_9_1558627932115.json" t="Include" />
+              <e p="9_9_1558627933715.json" t="Include" />
+              <e p="9_9_1558627935314.json" t="Include" />
+              <e p="9_9_1558627937016.json" t="Include" />
+              <e p="9_9_1558627938415.json" t="Include" />
+              <e p="9_9_1558627939915.json" t="Include" />
+              <e p="9_9_1558627941415.json" t="Include" />
+              <e p="9_9_1558627942915.json" t="Include" />
+              <e p="9_9_1558627944517.json" t="Include" />
+              <e p="9_9_1558627946015.json" t="Include" />
+              <e p="9_9_1558627947515.json" t="Include" />
+              <e p="9_9_1558627949116.json" t="Include" />
+              <e p="9_9_1558627950515.json" t="Include" />
+              <e p="9_9_1558627952025.json" t="Include" />
+              <e p="9_9_1558627953615.json" t="Include" />
+              <e p="9_9_1558627955016.json" t="Include" />
+              <e p="9_9_1558627956515.json" t="Include" />
+              <e p="9_9_1558627958015.json" t="Include" />
+              <e p="9_9_1558627960216.json" t="Include" />
+              <e p="9_9_1558627962016.json" t="Include" />
+              <e p="9_9_1558627963616.json" t="Include" />
+              <e p="9_9_1558627965316.json" t="Include" />
+              <e p="9_9_1558627968715.json" t="Include" />
+              <e p="9_9_1558627970416.json" t="Include" />
+              <e p="9_9_1558627972316.json" t="Include" />
+              <e p="9_9_1558627973715.json" t="Include" />
+              <e p="9_9_1558627975317.json" t="Include" />
+              <e p="9_9_1558627976916.json" t="Include" />
+              <e p="9_9_1558627978416.json" t="Include" />
+              <e p="9_9_1558627979917.json" t="Include" />
+              <e p="9_9_1558627981416.json" t="Include" />
+              <e p="9_9_1558627983016.json" t="Include" />
+              <e p="9_9_1558627984617.json" t="Include" />
+              <e p="9_9_1558627986116.json" t="Include" />
+              <e p="9_9_1558627987617.json" t="Include" />
+              <e p="9_9_1558627989116.json" t="Include" />
+              <e p="9_9_1558627990616.json" t="Include" />
+              <e p="9_9_1558627991916.json" t="Include" />
+              <e p="9_9_1558627993417.json" t="Include" />
+              <e p="9_9_1558627994817.json" t="Include" />
+              <e p="9_9_1558627996317.json" t="Include" />
+              <e p="9_9_1558627997817.json" t="Include" />
+              <e p="9_9_1558627999416.json" t="Include" />
+              <e p="9_9_1558628000917.json" t="Include" />
+              <e p="9_9_1558628002518.json" t="Include" />
+              <e p="9_9_1558628003917.json" t="Include" />
+              <e p="9_9_1558628005525.json" t="Include" />
+              <e p="9_9_1558628007117.json" t="Include" />
+              <e p="9_9_1558628008916.json" t="Include" />
+              <e p="9_9_1558628010618.json" t="Include" />
+              <e p="9_9_1558628012117.json" t="Include" />
+              <e p="9_9_1558628013616.json" t="Include" />
+              <e p="9_9_1558628015017.json" t="Include" />
+              <e p="9_9_1558628016617.json" t="Include" />
+              <e p="9_9_1558628018317.json" t="Include" />
+              <e p="9_9_1558628019918.json" t="Include" />
+              <e p="9_9_1558628021417.json" t="Include" />
+              <e p="9_9_1558628022818.json" t="Include" />
+              <e p="9_9_1558628024318.json" t="Include" />
+              <e p="9_9_1558628025918.json" t="Include" />
+              <e p="9_9_1558628027518.json" t="Include" />
+              <e p="9_9_1558628028918.json" t="Include" />
+              <e p="9_9_1558628030417.json" t="Include" />
+              <e p="9_9_1558628031817.json" t="Include" />
+              <e p="9_9_1558628033519.json" t="Include" />
+              <e p="9_9_1558628035017.json" t="Include" />
+              <e p="9_9_1558628036517.json" t="Include" />
+              <e p="9_9_1558628038018.json" t="Include" />
+              <e p="9_9_1558628039717.json" t="Include" />
+              <e p="9_9_1558628041517.json" t="Include" />
+              <e p="9_9_1558628043218.json" t="Include" />
+              <e p="9_9_1558628044718.json" t="Include" />
+              <e p="9_9_1558628046218.json" t="Include" />
+              <e p="9_9_1558628047618.json" t="Include" />
+              <e p="9_9_1558628049218.json" t="Include" />
+              <e p="9_9_1558628050818.json" t="Include" />
+              <e p="9_9_1558628052418.json" t="Include" />
+              <e p="9_9_1558628053818.json" t="Include" />
+              <e p="9_9_1558628055318.json" t="Include" />
+              <e p="9_9_1558628056918.json" t="Include" />
+              <e p="9_9_1558628059018.json" t="Include" />
+              <e p="9_9_1558628061119.json" t="Include" />
+              <e p="9_9_1558628063318.json" t="Include" />
+              <e p="9_9_1558628065427.json" t="Include" />
+              <e p="9_9_1558628067219.json" t="Include" />
+              <e p="9_9_1558628068719.json" t="Include" />
+              <e p="9_9_1558628070519.json" t="Include" />
+              <e p="9_9_1558628072619.json" t="Include" />
+              <e p="9_9_1558628074319.json" t="Include" />
+              <e p="9_9_1558628076619.json" t="Include" />
+              <e p="9_9_1558628078624.json" t="Include" />
+              <e p="9_9_1558628080619.json" t="Include" />
+              <e p="9_9_1558628082518.json" t="Include" />
+              <e p="9_9_1558628084328.json" t="Include" />
+              <e p="9_9_1558628085819.json" t="Include" />
+              <e p="9_9_1558628087519.json" t="Include" />
+              <e p="9_9_1558628089120.json" t="Include" />
+              <e p="9_9_1558628090619.json" t="Include" />
+              <e p="9_9_1558628092220.json" t="Include" />
+              <e p="9_9_1558628093920.json" t="Include" />
+              <e p="9_9_1558628095627.json" t="Include" />
+              <e p="9_9_1558628097119.json" t="Include" />
+              <e p="9_9_1558628098720.json" t="Include" />
+              <e p="9_9_1558628100320.json" t="Include" />
+              <e p="9_9_1558628102019.json" t="Include" />
+              <e p="9_9_1558628103520.json" t="Include" />
+              <e p="9_9_1558628105520.json" t="Include" />
+              <e p="9_9_1558628107520.json" t="Include" />
+              <e p="9_9_1558628109419.json" t="Include" />
+              <e p="9_9_1558628111120.json" t="Include" />
+              <e p="9_9_1558628112821.json" t="Include" />
+              <e p="9_9_1558628114620.json" t="Include" />
+              <e p="9_9_1558628116521.json" t="Include" />
+              <e p="9_9_1558628118320.json" t="Include" />
+              <e p="9_9_1558628119821.json" t="Include" />
+              <e p="9_9_1558628121220.json" t="Include" />
+              <e p="9_9_1558628122821.json" t="Include" />
+              <e p="9_9_1558628124421.json" t="Include" />
+              <e p="9_9_1558628125920.json" t="Include" />
+              <e p="9_9_1558628127521.json" t="Include" />
+              <e p="9_9_1558628129319.json" t="Include" />
+              <e p="9_9_1558628131020.json" t="Include" />
+              <e p="9_9_1558628132520.json" t="Include" />
+              <e p="9_9_1558628134021.json" t="Include" />
+              <e p="9_9_1558628135721.json" t="Include" />
+              <e p="9_9_1558628137529.json" t="Include" />
+              <e p="9_9_1558628139121.json" t="Include" />
+              <e p="9_9_1558628140721.json" t="Include" />
+              <e p="9_9_1558628142421.json" t="Include" />
+            </e>
+            <e p="specialty-blockers1" t="Include">
+              <e p="6_6_1558631311361.json" t="Include" />
+              <e p="6_6_1558631312739.json" t="Include" />
+              <e p="6_6_1558631313831.json" t="Include" />
+              <e p="6_6_1558631314851.json" t="Include" />
+              <e p="6_6_1558631315895.json" t="Include" />
+              <e p="6_6_1558631316951.json" t="Include" />
+              <e p="6_6_1558631318059.json" t="Include" />
+              <e p="6_6_1558631319143.json" t="Include" />
+              <e p="6_6_1558631320196.json" t="Include" />
+              <e p="6_6_1558631321287.json" t="Include" />
+              <e p="6_6_1558631322363.json" t="Include" />
+              <e p="6_6_1558631323407.json" t="Include" />
+              <e p="6_6_1558631324432.json" t="Include" />
+              <e p="6_6_1558631325500.json" t="Include" />
+              <e p="6_6_1558631326512.json" t="Include" />
+              <e p="6_6_1558631327600.json" t="Include" />
+              <e p="6_6_1558631328679.json" t="Include" />
+              <e p="6_6_1558631329756.json" t="Include" />
+              <e p="6_6_1558631330808.json" t="Include" />
+              <e p="6_6_1558631331844.json" t="Include" />
+              <e p="6_6_1558631332883.json" t="Include" />
+              <e p="6_6_1558631333928.json" t="Include" />
+              <e p="6_6_1558631334980.json" t="Include" />
+              <e p="6_6_1558631336340.json" t="Include" />
+              <e p="6_6_1558631337344.json" t="Include" />
+              <e p="6_6_1558632914418.json" t="Include" />
+              <e p="6_6_1558632915586.json" t="Include" />
+              <e p="6_6_1558632916650.json" t="Include" />
+              <e p="6_6_1558632917686.json" t="Include" />
+              <e p="6_6_1558632918643.json" t="Include" />
+              <e p="6_6_1558632919647.json" t="Include" />
+              <e p="6_6_1558632920595.json" t="Include" />
+              <e p="6_6_1558632921634.json" t="Include" />
+              <e p="6_6_1558632922622.json" t="Include" />
+              <e p="6_6_1558632923711.json" t="Include" />
+              <e p="6_6_1558632924742.json" t="Include" />
+              <e p="6_6_1558632925803.json" t="Include" />
+              <e p="6_6_1558632926838.json" t="Include" />
+              <e p="6_6_1558632927823.json" t="Include" />
+              <e p="6_6_1558632928807.json" t="Include" />
+              <e p="6_6_1558632929783.json" t="Include" />
+              <e p="6_6_1558632930787.json" t="Include" />
+              <e p="6_6_1558632931831.json" t="Include" />
+              <e p="6_6_1558632932815.json" t="Include" />
+              <e p="6_6_1558632933835.json" t="Include" />
+              <e p="6_6_1558632934775.json" t="Include" />
+              <e p="6_6_1558632935851.json" t="Include" />
+              <e p="6_6_1558632936839.json" t="Include" />
+              <e p="6_6_1558632937843.json" t="Include" />
+              <e p="6_6_1558632938791.json" t="Include" />
+            </e>
+            <e p="specialty-blockers2" t="Include">
+              <e p="7_7_1558633151448.json" t="Include" />
+              <e p="7_7_1558633152723.json" t="Include" />
+              <e p="7_7_1558633153815.json" t="Include" />
+              <e p="7_7_1558633154919.json" t="Include" />
+              <e p="7_7_1558633156047.json" t="Include" />
+              <e p="7_7_1558633157275.json" t="Include" />
+              <e p="7_7_1558633158496.json" t="Include" />
+              <e p="7_7_1558633159559.json" t="Include" />
+              <e p="7_7_1558633160707.json" t="Include" />
+              <e p="7_7_1558633161756.json" t="Include" />
+              <e p="7_7_1558633162855.json" t="Include" />
+              <e p="7_7_1558633163940.json" t="Include" />
+              <e p="7_7_1558633165060.json" t="Include" />
+              <e p="7_7_1558633166187.json" t="Include" />
+              <e p="7_7_1558633167335.json" t="Include" />
+              <e p="7_7_1558633168508.json" t="Include" />
+              <e p="7_7_1558633169660.json" t="Include" />
+              <e p="7_7_1558633170884.json" t="Include" />
+              <e p="7_7_1558633172064.json" t="Include" />
+              <e p="7_7_1558633173195.json" t="Include" />
+              <e p="7_7_1558633174517.json" t="Include" />
+              <e p="7_7_1558633176018.json" t="Include" />
+              <e p="7_7_1558633177418.json" t="Include" />
+              <e p="7_7_1558633178817.json" t="Include" />
+              <e p="7_7_1558633180118.json" t="Include" />
+              <e p="7_7_1558633181318.json" t="Include" />
+              <e p="7_7_1558633182717.json" t="Include" />
+              <e p="7_7_1558633184119.json" t="Include" />
+              <e p="7_7_1558633185319.json" t="Include" />
+              <e p="7_7_1558633186519.json" t="Include" />
+              <e p="7_7_1558633187619.json" t="Include" />
+              <e p="7_7_1558633188719.json" t="Include" />
+              <e p="7_7_1558633189819.json" t="Include" />
+              <e p="7_7_1558633191019.json" t="Include" />
+              <e p="7_7_1558633192219.json" t="Include" />
+              <e p="7_7_1558633193419.json" t="Include" />
+              <e p="7_7_1558633194619.json" t="Include" />
+              <e p="7_7_1558633195828.json" t="Include" />
+              <e p="7_7_1558633196919.json" t="Include" />
+              <e p="7_7_1558633198118.json" t="Include" />
+              <e p="7_7_1558633199319.json" t="Include" />
+              <e p="7_7_1558633200519.json" t="Include" />
+              <e p="7_7_1558633201619.json" t="Include" />
+              <e p="7_7_1558633202719.json" t="Include" />
+              <e p="7_7_1558633203920.json" t="Include" />
+              <e p="7_7_1558633205219.json" t="Include" />
+              <e p="7_7_1558633206419.json" t="Include" />
+              <e p="7_7_1558633207618.json" t="Include" />
+              <e p="7_7_1558633208819.json" t="Include" />
+              <e p="7_7_1558633209919.json" t="Include" />
+              <e p="8_8_1558633289129.json" t="Include" />
+              <e p="8_8_1558633290605.json" t="Include" />
+              <e p="8_8_1558633291781.json" t="Include" />
+              <e p="8_8_1558633292937.json" t="Include" />
+              <e p="8_8_1558633294141.json" t="Include" />
+              <e p="8_8_1558633295558.json" t="Include" />
+              <e p="8_8_1558633297058.json" t="Include" />
+              <e p="8_8_1558633298458.json" t="Include" />
+              <e p="8_8_1558633300058.json" t="Include" />
+              <e p="8_8_1558633301558.json" t="Include" />
+              <e p="8_8_1558633303458.json" t="Include" />
+              <e p="8_8_1558633305167.json" t="Include" />
+              <e p="8_8_1558633306559.json" t="Include" />
+              <e p="8_8_1558633308059.json" t="Include" />
+              <e p="8_8_1558633309459.json" t="Include" />
+              <e p="8_8_1558633310759.json" t="Include" />
+              <e p="8_8_1558633311858.json" t="Include" />
+              <e p="8_8_1558633313358.json" t="Include" />
+              <e p="8_8_1558633314658.json" t="Include" />
+              <e p="8_8_1558633315968.json" t="Include" />
+              <e p="8_8_1558633317759.json" t="Include" />
+              <e p="8_8_1558633319869.json" t="Include" />
+              <e p="8_8_1558633321559.json" t="Include" />
+              <e p="8_8_1558633322860.json" t="Include" />
+              <e p="8_8_1558633324160.json" t="Include" />
+              <e p="8_8_1558633325459.json" t="Include" />
+              <e p="8_8_1558633326858.json" t="Include" />
+              <e p="8_8_1558633328059.json" t="Include" />
+              <e p="8_8_1558633329460.json" t="Include" />
+              <e p="8_8_1558633330759.json" t="Include" />
+              <e p="8_8_1558633331959.json" t="Include" />
+              <e p="8_8_1558633333359.json" t="Include" />
+              <e p="8_8_1558633334659.json" t="Include" />
+              <e p="8_8_1558633335960.json" t="Include" />
+              <e p="8_8_1558633337260.json" t="Include" />
+              <e p="8_8_1558633338560.json" t="Include" />
+              <e p="8_8_1558633339959.json" t="Include" />
+              <e p="8_8_1558633341259.json" t="Include" />
+              <e p="8_8_1558633342660.json" t="Include" />
+              <e p="8_8_1558633343960.json" t="Include" />
+              <e p="8_8_1558633345260.json" t="Include" />
+              <e p="8_8_1558633346560.json" t="Include" />
+              <e p="8_8_1558633347960.json" t="Include" />
+              <e p="8_8_1558633349160.json" t="Include" />
+              <e p="8_8_1558633350460.json" t="Include" />
+              <e p="8_8_1558633351860.json" t="Include" />
+              <e p="8_8_1558633353361.json" t="Include" />
+              <e p="8_8_1558633354760.json" t="Include" />
+              <e p="8_8_1558633356261.json" t="Include" />
+              <e p="8_8_1558633357760.json" t="Include" />
+              <e p="9_9_1558633405985.json" t="Include" />
+              <e p="9_9_1558633407529.json" t="Include" />
+              <e p="9_9_1558633408945.json" t="Include" />
+              <e p="9_9_1558633410582.json" t="Include" />
+              <e p="9_9_1558633412557.json" t="Include" />
+              <e p="9_9_1558633414150.json" t="Include" />
+              <e p="9_9_1558633415653.json" t="Include" />
+              <e p="9_9_1558633417771.json" t="Include" />
+              <e p="9_9_1558633419341.json" t="Include" />
+              <e p="9_9_1558633420469.json" t="Include" />
+              <e p="9_9_1558633421934.json" t="Include" />
+              <e p="9_9_1558633423534.json" t="Include" />
+              <e p="9_9_1558633424882.json" t="Include" />
+              <e p="9_9_1558633426222.json" t="Include" />
+              <e p="9_9_1558633427534.json" t="Include" />
+              <e p="9_9_1558633428941.json" t="Include" />
+              <e p="9_9_1558633430258.json" t="Include" />
+              <e p="9_9_1558633431702.json" t="Include" />
+              <e p="9_9_1558633433018.json" t="Include" />
+              <e p="9_9_1558633434402.json" t="Include" />
+              <e p="9_9_1558633435879.json" t="Include" />
+              <e p="9_9_1558633437190.json" t="Include" />
+              <e p="9_9_1558633438497.json" t="Include" />
+              <e p="9_9_1558633440298.json" t="Include" />
+              <e p="9_9_1558633442291.json" t="Include" />
+              <e p="9_9_1558633444191.json" t="Include" />
+              <e p="9_9_1558633445790.json" t="Include" />
+              <e p="9_9_1558633447494.json" t="Include" />
+              <e p="9_9_1558633449591.json" t="Include" />
+              <e p="9_9_1558633451292.json" t="Include" />
+              <e p="9_9_1558633452591.json" t="Include" />
+              <e p="9_9_1558633453890.json" t="Include" />
+              <e p="9_9_1558633455191.json" t="Include" />
+              <e p="9_9_1558633456792.json" t="Include" />
+              <e p="9_9_1558633458490.json" t="Include" />
+              <e p="9_9_1558633460191.json" t="Include" />
+              <e p="9_9_1558633461893.json" t="Include" />
+              <e p="9_9_1558633463493.json" t="Include" />
+              <e p="9_9_1558633464991.json" t="Include" />
+              <e p="9_9_1558633466591.json" t="Include" />
+              <e p="9_9_1558633467891.json" t="Include" />
+              <e p="9_9_1558633469391.json" t="Include" />
+              <e p="9_9_1558633470792.json" t="Include" />
+              <e p="9_9_1558633472092.json" t="Include" />
+              <e p="9_9_1558633473392.json" t="Include" />
+              <e p="9_9_1558633474792.json" t="Include" />
+              <e p="9_9_1558633475992.json" t="Include" />
+              <e p="9_9_1558633477493.json" t="Include" />
+              <e p="9_9_1558633479192.json" t="Include" />
+              <e p="9_9_1558633480593.json" t="Include" />
+            </e>
+            <e p="specialty-blockers3" t="Include">
+              <e p="10_10_1558633581780.json" t="Include" />
+              <e p="10_10_1558633583640.json" t="Include" />
+              <e p="10_10_1558633585385.json" t="Include" />
+              <e p="10_10_1558633586919.json" t="Include" />
+              <e p="10_10_1558633588504.json" t="Include" />
+              <e p="10_10_1558633590364.json" t="Include" />
+              <e p="10_10_1558633591824.json" t="Include" />
+              <e p="10_10_1558633593355.json" t="Include" />
+              <e p="10_10_1558633595016.json" t="Include" />
+              <e p="10_10_1558633596536.json" t="Include" />
+              <e p="10_10_1558633598212.json" t="Include" />
+              <e p="10_10_1558633599372.json" t="Include" />
+              <e p="10_10_1558633600880.json" t="Include" />
+              <e p="10_10_1558633602672.json" t="Include" />
+              <e p="10_10_1558633604480.json" t="Include" />
+              <e p="10_10_1558633606262.json" t="Include" />
+              <e p="10_10_1558633608161.json" t="Include" />
+              <e p="10_10_1558633610162.json" t="Include" />
+              <e p="10_10_1558633611663.json" t="Include" />
+              <e p="10_10_1558633613363.json" t="Include" />
+              <e p="10_10_1558633614862.json" t="Include" />
+              <e p="10_10_1558633617862.json" t="Include" />
+              <e p="10_10_1558633619862.json" t="Include" />
+              <e p="10_10_1558633621862.json" t="Include" />
+              <e p="10_10_1558633623462.json" t="Include" />
+              <e p="10_10_1558633625363.json" t="Include" />
+              <e p="10_10_1558633627161.json" t="Include" />
+              <e p="10_10_1558633628863.json" t="Include" />
+              <e p="10_10_1558633630763.json" t="Include" />
+              <e p="10_10_1558633632663.json" t="Include" />
+              <e p="10_10_1558633634063.json" t="Include" />
+              <e p="10_10_1558633635763.json" t="Include" />
+              <e p="10_10_1558633637463.json" t="Include" />
+              <e p="10_10_1558633638962.json" t="Include" />
+              <e p="10_10_1558633640862.json" t="Include" />
+              <e p="10_10_1558633642662.json" t="Include" />
+              <e p="10_10_1558633644463.json" t="Include" />
+              <e p="10_10_1558633645970.json" t="Include" />
+              <e p="10_10_1558633647763.json" t="Include" />
+              <e p="10_10_1558633649364.json" t="Include" />
+              <e p="10_10_1558633650964.json" t="Include" />
+              <e p="10_10_1558633652663.json" t="Include" />
+              <e p="10_10_1558633654164.json" t="Include" />
+              <e p="10_10_1558633655863.json" t="Include" />
+              <e p="10_10_1558633657363.json" t="Include" />
+              <e p="10_10_1558633658964.json" t="Include" />
+              <e p="10_10_1558633660363.json" t="Include" />
+              <e p="10_10_1558633661764.json" t="Include" />
+              <e p="10_10_1558633663264.json" t="Include" />
+              <e p="10_10_1558633664864.json" t="Include" />
+              <e p="11_11_1558633705837.json" t="Include" />
+              <e p="11_11_1558633707689.json" t="Include" />
+              <e p="11_11_1558633709316.json" t="Include" />
+              <e p="11_11_1558633710828.json" t="Include" />
+              <e p="11_11_1558633712564.json" t="Include" />
+              <e p="11_11_1558633714248.json" t="Include" />
+              <e p="11_11_1558633715925.json" t="Include" />
+              <e p="11_11_1558633717649.json" t="Include" />
+              <e p="11_11_1558633719692.json" t="Include" />
+              <e p="11_11_1558633721525.json" t="Include" />
+              <e p="11_11_1558633723088.json" t="Include" />
+              <e p="11_11_1558633725342.json" t="Include" />
+              <e p="11_11_1558633727701.json" t="Include" />
+              <e p="11_11_1558633729921.json" t="Include" />
+              <e p="11_11_1558633731825.json" t="Include" />
+              <e p="11_11_1558633733797.json" t="Include" />
+              <e p="11_11_1558633736017.json" t="Include" />
+              <e p="11_11_1558633737961.json" t="Include" />
+              <e p="11_11_1558633739953.json" t="Include" />
+              <e p="11_11_1558633742074.json" t="Include" />
+              <e p="11_11_1558633743913.json" t="Include" />
+              <e p="11_11_1558633745798.json" t="Include" />
+              <e p="11_11_1558633747747.json" t="Include" />
+              <e p="11_11_1558633749810.json" t="Include" />
+              <e p="11_11_1558633751842.json" t="Include" />
+              <e p="11_11_1558633754174.json" t="Include" />
+              <e p="11_11_1558633756374.json" t="Include" />
+              <e p="11_11_1558633758374.json" t="Include" />
+              <e p="11_11_1558633760374.json" t="Include" />
+              <e p="11_11_1558633762474.json" t="Include" />
+              <e p="11_11_1558633764174.json" t="Include" />
+              <e p="11_11_1558633766093.json" t="Include" />
+              <e p="11_11_1558633767874.json" t="Include" />
+              <e p="11_11_1558633769674.json" t="Include" />
+              <e p="11_11_1558633771476.json" t="Include" />
+              <e p="11_11_1558633773274.json" t="Include" />
+              <e p="11_11_1558633775274.json" t="Include" />
+              <e p="11_11_1558633777475.json" t="Include" />
+              <e p="11_11_1558633779375.json" t="Include" />
+              <e p="11_11_1558633781575.json" t="Include" />
+              <e p="11_11_1558633783576.json" t="Include" />
+              <e p="11_11_1558633785375.json" t="Include" />
+              <e p="11_11_1558633787574.json" t="Include" />
+              <e p="11_11_1558633790175.json" t="Include" />
+              <e p="11_11_1558633792584.json" t="Include" />
+              <e p="11_11_1558633795076.json" t="Include" />
+              <e p="11_11_1558633797476.json" t="Include" />
+              <e p="11_11_1558633799376.json" t="Include" />
+              <e p="11_11_1558633801785.json" t="Include" />
+              <e p="11_11_1558633803875.json" t="Include" />
+              <e p="12_12_1558633893909.json" t="Include" />
+              <e p="12_12_1558633895714.json" t="Include" />
+              <e p="12_12_1558633897658.json" t="Include" />
+              <e p="12_12_1558633899494.json" t="Include" />
+              <e p="12_12_1558633901962.json" t="Include" />
+              <e p="12_12_1558633903662.json" t="Include" />
+              <e p="12_12_1558633905330.json" t="Include" />
+              <e p="12_12_1558633907454.json" t="Include" />
+              <e p="12_12_1558633909598.json" t="Include" />
+              <e p="12_12_1558633911082.json" t="Include" />
+              <e p="12_12_1558633912857.json" t="Include" />
+              <e p="12_12_1558633914662.json" t="Include" />
+              <e p="12_12_1558633916630.json" t="Include" />
+              <e p="12_12_1558633918463.json" t="Include" />
+              <e p="12_12_1558633919932.json" t="Include" />
+              <e p="12_12_1558633921925.json" t="Include" />
+              <e p="12_12_1558633923766.json" t="Include" />
+              <e p="12_12_1558633925883.json" t="Include" />
+              <e p="12_12_1558633928082.json" t="Include" />
+              <e p="12_12_1558633930784.json" t="Include" />
+              <e p="12_12_1558633932685.json" t="Include" />
+              <e p="12_12_1558633934886.json" t="Include" />
+              <e p="12_12_1558633936686.json" t="Include" />
+              <e p="12_12_1558633938385.json" t="Include" />
+              <e p="12_12_1558633940086.json" t="Include" />
+              <e p="12_12_1558633941987.json" t="Include" />
+              <e p="12_12_1558633943787.json" t="Include" />
+              <e p="12_12_1558633945589.json" t="Include" />
+              <e p="12_12_1558633947188.json" t="Include" />
+              <e p="12_12_1558633948787.json" t="Include" />
+              <e p="12_12_1558633950795.json" t="Include" />
+              <e p="12_12_1558633952488.json" t="Include" />
+              <e p="12_12_1558633954289.json" t="Include" />
+              <e p="12_12_1558633956088.json" t="Include" />
+              <e p="12_12_1558633957789.json" t="Include" />
+              <e p="12_12_1558633959589.json" t="Include" />
+              <e p="12_12_1558633961289.json" t="Include" />
+              <e p="12_12_1558633962889.json" t="Include" />
+              <e p="12_12_1558633964589.json" t="Include" />
+              <e p="12_12_1558633966290.json" t="Include" />
+              <e p="12_12_1558633968190.json" t="Include" />
+              <e p="12_12_1558633970090.json" t="Include" />
+              <e p="12_12_1558633972090.json" t="Include" />
+              <e p="12_12_1558633973989.json" t="Include" />
+              <e p="12_12_1558633975699.json" t="Include" />
+              <e p="12_12_1558633977290.json" t="Include" />
+              <e p="12_12_1558633979390.json" t="Include" />
+              <e p="12_12_1558633980892.json" t="Include" />
+              <e p="12_12_1558633982791.json" t="Include" />
+              <e p="12_12_1558633984797.json" t="Include" />
+              <e p="13_13_1558634142641.json" t="Include" />
+              <e p="13_13_1558634144759.json" t="Include" />
+              <e p="13_13_1558634146774.json" t="Include" />
+              <e p="13_13_1558634149266.json" t="Include" />
+              <e p="13_13_1558634152166.json" t="Include" />
+              <e p="13_13_1558634154366.json" t="Include" />
+              <e p="13_13_1558634156666.json" t="Include" />
+              <e p="13_13_1558634158666.json" t="Include" />
+              <e p="13_13_1558634160667.json" t="Include" />
+              <e p="13_13_1558634162767.json" t="Include" />
+              <e p="13_13_1558634164867.json" t="Include" />
+              <e p="13_13_1558634167067.json" t="Include" />
+              <e p="13_13_1558634169067.json" t="Include" />
+              <e p="13_13_1558634171167.json" t="Include" />
+              <e p="13_13_1558634173166.json" t="Include" />
+              <e p="13_13_1558634175667.json" t="Include" />
+              <e p="13_13_1558634177866.json" t="Include" />
+              <e p="13_13_1558634180066.json" t="Include" />
+              <e p="13_13_1558634182067.json" t="Include" />
+              <e p="13_13_1558634183667.json" t="Include" />
+              <e p="13_13_1558634185267.json" t="Include" />
+              <e p="13_13_1558634187368.json" t="Include" />
+              <e p="13_13_1558634188967.json" t="Include" />
+              <e p="13_13_1558634190868.json" t="Include" />
+              <e p="13_13_1558634193067.json" t="Include" />
+              <e p="13_13_1558634195268.json" t="Include" />
+              <e p="13_13_1558634196967.json" t="Include" />
+              <e p="13_13_1558634199068.json" t="Include" />
+              <e p="13_13_1558634200968.json" t="Include" />
+              <e p="13_13_1558634203068.json" t="Include" />
+              <e p="13_13_1558634204968.json" t="Include" />
+              <e p="13_13_1558634206769.json" t="Include" />
+              <e p="13_13_1558634208668.json" t="Include" />
+              <e p="13_13_1558634210567.json" t="Include" />
+              <e p="13_13_1558634212669.json" t="Include" />
+              <e p="13_13_1558634214869.json" t="Include" />
+              <e p="13_13_1558634217867.json" t="Include" />
+              <e p="13_13_1558634220068.json" t="Include" />
+              <e p="13_13_1558634221969.json" t="Include" />
+              <e p="13_13_1558634224168.json" t="Include" />
+              <e p="13_13_1558634226368.json" t="Include" />
+              <e p="13_13_1558634228068.json" t="Include" />
+              <e p="13_13_1558634230268.json" t="Include" />
+              <e p="13_13_1558634232477.json" t="Include" />
+              <e p="13_13_1558634234669.json" t="Include" />
+              <e p="13_13_1558634236469.json" t="Include" />
+              <e p="13_13_1558634238169.json" t="Include" />
+              <e p="13_13_1558634239969.json" t="Include" />
+              <e p="13_13_1558634241870.json" t="Include" />
+              <e p="13_13_1558634243768.json" t="Include" />
+            </e>
+            <e p="specialty-shapes1" t="Include">
+              <e p="6_6_1558635246994.json" t="Include" />
+              <e p="6_6_1558635264071.json" t="Include" />
+              <e p="6_6_1558635420231.json" t="Include" />
+              <e p="6_6_1558635427136.json" t="Include" />
+              <e p="6_6_1558635436872.json" t="Include" />
+              <e p="6_6_1558635443973.json" t="Include" />
+              <e p="6_6_1558635473058.json" t="Include" />
+              <e p="6_6_1558635488942.json" t="Include" />
+              <e p="6_6_1558635529899.json" t="Include" />
+              <e p="6_6_1558635573525.json" t="Include" />
+              <e p="6_6_1558635621298.json" t="Include" />
+              <e p="6_6_1558635762501.json" t="Include" />
+              <e p="6_6_1558636060797.json" t="Include" />
+              <e p="6_6_1558636068854.json" t="Include" />
+              <e p="6_6_1558636417489.json" t="Include" />
+              <e p="6_6_1558636425669.json" t="Include" />
+              <e p="6_7_1558635201920.json" t="Include" />
+              <e p="6_7_1558635644659.json" t="Include" />
+              <e p="6_7_1558635675283.json" t="Include" />
+              <e p="6_7_1558635679640.json" t="Include" />
+              <e p="6_7_1558635688857.json" t="Include" />
+              <e p="6_7_1558635692072.json" t="Include" />
+              <e p="6_7_1558635696920.json" t="Include" />
+              <e p="6_7_1558635701292.json" t="Include" />
+              <e p="6_7_1558636024857.json" t="Include" />
+              <e p="6_7_1558636033625.json" t="Include" />
+              <e p="6_7_1558636039017.json" t="Include" />
+              <e p="6_7_1558636270949.json" t="Include" />
+              <e p="6_7_1558636285210.json" t="Include" />
+              <e p="6_7_1558636296894.json" t="Include" />
+              <e p="6_7_1558636316302.json" t="Include" />
+              <e p="6_7_1558636337487.json" t="Include" />
+              <e p="6_7_1558636370112.json" t="Include" />
+              <e p="6_7_1558636378492.json" t="Include" />
+              <e p="7_6_1558635042617.json" t="Include" />
+              <e p="7_6_1558635121015.json" t="Include" />
+              <e p="7_6_1558635802362.json" t="Include" />
+              <e p="7_6_1558635807815.json" t="Include" />
+              <e p="7_6_1558635816066.json" t="Include" />
+              <e p="7_6_1558635822567.json" t="Include" />
+              <e p="7_6_1558635838967.json" t="Include" />
+              <e p="7_6_1558635855336.json" t="Include" />
+              <e p="7_6_1558635961156.json" t="Include" />
+              <e p="7_6_1558635996991.json" t="Include" />
+              <e p="7_6_1558636118964.json" t="Include" />
+              <e p="7_6_1558636143485.json" t="Include" />
+              <e p="7_6_1558636154562.json" t="Include" />
+              <e p="7_6_1558636165983.json" t="Include" />
+              <e p="7_6_1558636203431.json" t="Include" />
+              <e p="7_6_1558636236604.json" t="Include" />
+            </e>
+            <e p="specialty-shapes2" t="Include">
+              <e p="10_9_1558641093718.json" t="Include" />
+              <e p="10_9_1558641204781.json" t="Include" />
+              <e p="10_9_1558641301112.json" t="Include" />
+              <e p="10_9_1558641365214.json" t="Include" />
+              <e p="10_9_1558641380599.json" t="Include" />
+              <e p="10_9_1558641415984.json" t="Include" />
+              <e p="10_9_1558641439996.json" t="Include" />
+              <e p="10_9_1558641459049.json" t="Include" />
+              <e p="10_9_1558641476754.json" t="Include" />
+              <e p="10_9_1558641488606.json" t="Include" />
+              <e p="10_9_1558641509589.json" t="Include" />
+              <e p="10_9_1558645409738.json" t="Include" />
+              <e p="10_9_1558645424914.json" t="Include" />
+              <e p="10_9_1558645468621.json" t="Include" />
+              <e p="10_9_1558645515325.json" t="Include" />
+              <e p="10_9_1558645539278.json" t="Include" />
+              <e p="10_9_1558645554763.json" t="Include" />
+              <e p="10_9_1558645569146.json" t="Include" />
+              <e p="10_9_1558645601928.json" t="Include" />
+              <e p="10_9_1558645617581.json" t="Include" />
+              <e p="11_9_1558645354448.json" t="Include" />
+              <e p="7_7_1558636508356.json" t="Include" />
+              <e p="7_7_1558636530232.json" t="Include" />
+              <e p="7_7_1558636547066.json" t="Include" />
+              <e p="7_7_1558636724422.json" t="Include" />
+              <e p="7_7_1558636752611.json" t="Include" />
+              <e p="7_7_1558636767024.json" t="Include" />
+              <e p="7_7_1558636774659.json" t="Include" />
+              <e p="7_7_1558636783251.json" t="Include" />
+              <e p="7_7_1558636794616.json" t="Include" />
+              <e p="7_7_1558636809444.json" t="Include" />
+              <e p="7_7_1558636826301.json" t="Include" />
+              <e p="7_7_1558636841817.json" t="Include" />
+              <e p="7_7_1558636856889.json" t="Include" />
+              <e p="7_7_1558636868754.json" t="Include" />
+              <e p="7_7_1558636876974.json" t="Include" />
+              <e p="7_7_1558636885147.json" t="Include" />
+              <e p="7_7_1558636901559.json" t="Include" />
+              <e p="7_7_1558636916263.json" t="Include" />
+              <e p="7_7_1558636940680.json" t="Include" />
+              <e p="7_7_1558636961805.json" t="Include" />
+              <e p="7_7_1558637467282.json" t="Include" />
+              <e p="7_7_1558637481115.json" t="Include" />
+              <e p="7_8_1558637139684.json" t="Include" />
+              <e p="7_8_1558637151848.json" t="Include" />
+              <e p="7_8_1558637162604.json" t="Include" />
+              <e p="7_8_1558637176092.json" t="Include" />
+              <e p="7_8_1558637264376.json" t="Include" />
+              <e p="7_8_1558637286052.json" t="Include" />
+              <e p="7_8_1558637297613.json" t="Include" />
+              <e p="7_8_1558637307598.json" t="Include" />
+              <e p="7_8_1558637322806.json" t="Include" />
+              <e p="7_8_1558637347114.json" t="Include" />
+              <e p="7_8_1558637366280.json" t="Include" />
+              <e p="7_8_1558637501263.json" t="Include" />
+              <e p="7_8_1558637517056.json" t="Include" />
+              <e p="7_8_1558637885922.json" t="Include" />
+              <e p="8_7_1558637006346.json" t="Include" />
+              <e p="8_7_1558637014826.json" t="Include" />
+              <e p="8_7_1558637026567.json" t="Include" />
+              <e p="8_7_1558637036115.json" t="Include" />
+              <e p="8_7_1558637048680.json" t="Include" />
+              <e p="8_7_1558637059096.json" t="Include" />
+              <e p="8_7_1558637070448.json" t="Include" />
+              <e p="8_7_1558637103495.json" t="Include" />
+              <e p="8_7_1558637125731.json" t="Include" />
+              <e p="8_7_1558637540508.json" t="Include" />
+              <e p="8_7_1558637558445.json" t="Include" />
+              <e p="8_7_1558637574221.json" t="Include" />
+              <e p="8_7_1558637590050.json" t="Include" />
+              <e p="8_7_1558637610214.json" t="Include" />
+              <e p="8_8_1558637960204.json" t="Include" />
+              <e p="8_8_1558638936382.json" t="Include" />
+              <e p="8_8_1558639146448.json" t="Include" />
+              <e p="8_8_1558639154728.json" t="Include" />
+              <e p="8_8_1558639164300.json" t="Include" />
+              <e p="8_8_1558639171449.json" t="Include" />
+              <e p="8_8_1558639190693.json" t="Include" />
+              <e p="8_8_1558639205969.json" t="Include" />
+              <e p="8_8_1558639218666.json" t="Include" />
+              <e p="8_8_1558639236578.json" t="Include" />
+              <e p="8_8_1558639264667.json" t="Include" />
+              <e p="8_8_1558639277683.json" t="Include" />
+              <e p="8_8_1558639292332.json" t="Include" />
+              <e p="8_8_1558639323485.json" t="Include" />
+              <e p="8_8_1558639368420.json" t="Include" />
+              <e p="8_8_1558639379817.json" t="Include" />
+              <e p="8_8_1558639454824.json" t="Include" />
+              <e p="8_8_1558639480360.json" t="Include" />
+              <e p="8_8_1558639496201.json" t="Include" />
+              <e p="8_8_1558639524462.json" t="Include" />
+              <e p="8_8_1558640754620.json" t="Include" />
+              <e p="8_9_1558639557383.json" t="Include" />
+              <e p="8_9_1558639571283.json" t="Include" />
+              <e p="8_9_1558639605860.json" t="Include" />
+              <e p="8_9_1558639623632.json" t="Include" />
+              <e p="8_9_1558639753348.json" t="Include" />
+              <e p="8_9_1558639766945.json" t="Include" />
+              <e p="8_9_1558639777333.json" t="Include" />
+              <e p="8_9_1558639790025.json" t="Include" />
+              <e p="8_9_1558639820002.json" t="Include" />
+              <e p="8_9_1558639844955.json" t="Include" />
+              <e p="8_9_1558639861407.json" t="Include" />
+              <e p="8_9_1558639892293.json" t="Include" />
+              <e p="8_9_1558639915637.json" t="Include" />
+              <e p="9_10_1558640807841.json" t="Include" />
+              <e p="9_10_1558644948160.json" t="Include" />
+              <e p="9_10_1558644985940.json" t="Include" />
+              <e p="9_10_1558645001764.json" t="Include" />
+              <e p="9_10_1558645016997.json" t="Include" />
+              <e p="9_10_1558645061654.json" t="Include" />
+              <e p="9_10_1558645076940.json" t="Include" />
+              <e p="9_10_1558645120732.json" t="Include" />
+              <e p="9_10_1558645307535.json" t="Include" />
+              <e p="9_8_1558639414438.json" t="Include" />
+              <e p="9_8_1558639972281.json" t="Include" />
+              <e p="9_8_1558639992242.json" t="Include" />
+              <e p="9_8_1558640020179.json" t="Include" />
+              <e p="9_8_1558640027267.json" t="Include" />
+              <e p="9_8_1558640138622.json" t="Include" />
+              <e p="9_8_1558640151062.json" t="Include" />
+              <e p="9_8_1558640164699.json" t="Include" />
+              <e p="9_8_1558640181043.json" t="Include" />
+              <e p="9_8_1558640203504.json" t="Include" />
+              <e p="9_8_1558640217292.json" t="Include" />
+              <e p="9_8_1558640235185.json" t="Include" />
+              <e p="9_8_1558640254125.json" t="Include" />
+              <e p="9_8_1558640282511.json" t="Include" />
+              <e p="9_8_1558640670357.json" t="Include" />
+              <e p="9_8_1558640707842.json" t="Include" />
+              <e p="9_9_1558640823966.json" t="Include" />
+              <e p="9_9_1558640841378.json" t="Include" />
+              <e p="9_9_1558640855611.json" t="Include" />
+              <e p="9_9_1558640868639.json" t="Include" />
+              <e p="9_9_1558640878680.json" t="Include" />
+              <e p="9_9_1558640887104.json" t="Include" />
+              <e p="9_9_1558640912853.json" t="Include" />
+              <e p="9_9_1558640921273.json" t="Include" />
+              <e p="9_9_1558640928085.json" t="Include" />
+              <e p="9_9_1558640937905.json" t="Include" />
+              <e p="9_9_1558640948462.json" t="Include" />
+              <e p="9_9_1558640966590.json" t="Include" />
+              <e p="9_9_1558640976146.json" t="Include" />
+              <e p="9_9_1558641009619.json" t="Include" />
+              <e p="9_9_1558641015791.json" t="Include" />
+              <e p="9_9_1558641033548.json" t="Include" />
+              <e p="9_9_1558641042788.json" t="Include" />
+              <e p="9_9_1558641051640.json" t="Include" />
+              <e p="9_9_1558641066649.json" t="Include" />
+              <e p="9_9_1558645387661.json" t="Include" />
+            </e>
+          </e>
+          <e p="Plugins" t="Include">
+            <e p="SimpleLocalization" t="Include">
+              <e p="Example.cs" t="Include" />
+              <e p="Readme.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="Constants.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="DropdownEditor.cs" t="Include" />
+                  <e p="EditorActions.cs" t="Include" />
+                  <e p="LocalizationEditor.cs" t="Include" />
+                  <e p="LocalizationEditorWindow.cs" t="Include" />
+                  <e p="LocalizationSettingsEditor.cs" t="Include" />
+                  <e p="LocalizationSettingsWindow.cs" t="Include" />
+                  <e p="LocalizationSyncEditor.cs" t="Include" />
+                  <e p="LocalizationUtils.cs" t="Include" />
+                  <e p="LocalizedTextEditor.cs" t="Include" />
+                  <e p="LocalizedTranslate.cs" t="Include" />
+                  <e p="TextEditor.cs" t="Include" />
+                </e>
+                <e p="LocalizationManager.cs" t="Include" />
+                <e p="LocalizationSettings.cs" t="Include" />
+                <e p="LocalizationSync.cs" t="Include" />
+                <e p="LocalizedDropdown.cs" t="Include" />
+                <e p="LocalizedText.cs" t="Include" />
+                <e p="LocalizedTMPText.cs" t="Include" />
+                <e p="Sheet.cs" t="Include" />
+              </e>
+            </e>
+            <e p="YandexGame" t="Include">
+              <e p="DebuggingMode" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="DebuggingModeYG.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Example" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="DebugViewing.cs" t="Include" />
+                  <e p="GetPlayerData.cs" t="Include" />
+                  <e p="InitExample.cs" t="Include" />
+                  <e p="LanguageExample.cs" t="Include" />
+                  <e p="NewResultLBExample.cs" t="Include" />
+                  <e p="OpenAuthorizationDialog.cs" t="Include" />
+                  <e p="ReceivingPurchaseExample.cs" t="Include" />
+                  <e p="RewardedAd.cs" t="Include" />
+                  <e p="SaverTest.cs" t="Include" />
+                  <e p="SwitchSceneTest.cs" t="Include" />
+                  <e p="YandexMetricaExample.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Fonts" t="Include">
+                <e p="LICENSE.txt" t="Include" />
+              </e>
+              <e p="LICENSE.txt" t="Include" />
+              <e p="Readme.txt" t="Include" />
+              <e p="ScriptsYG" t="Include">
+                <e p="ActivityOnAuthorizationYG.cs" t="Include" />
+                <e p="AdNotificationYG.cs" t="Include" />
+                <e p="Authorization" t="Include">
+                  <e p="Auth_yg.cs" t="Include" />
+                  <e p="Editor" t="Include">
+                    <e p="Auth_build.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Editor" t="Include">
+                  <e p="CreateYandexGameEditor.cs" t="Include" />
+                  <e p="DocumentationEditor.cs" t="Include" />
+                  <e p="PostProcessBuild" t="Include">
+                    <e p="ArchivingBuild.cs" t="Include" />
+                    <e p="BuildLog.cs" t="Include" />
+                    <e p="ModifyIndexFile" t="Include">
+                      <e p="AdWhenLoadingGame.cs" t="Include" />
+                      <e p="BackgroundFormat.cs" t="Include" />
+                      <e p="LogoFormat.cs" t="Include" />
+                      <e p="MetricaCounterID.cs" t="Include" />
+                      <e p="ModifyBuildManager.cs" t="Include" />
+                      <e p="PixelRatioMobile.cs" t="Include" />
+                      <e p="SaveQuitGame.cs" t="Include" />
+                    </e>
+                    <e p="PostProcessBuild.cs" t="Include" />
+                  </e>
+                  <e p="Utils" t="Include">
+                    <e p="DefineSymbols.cs" t="Include" />
+                    <e p="PackageDownloader.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="EnvironmentData" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="EnvirData_build.cs" t="Include" />
+                  </e>
+                  <e p="EnvirData_yg.cs" t="Include" />
+                </e>
+                <e p="ForVisualScriptYG.cs" t="Include" />
+                <e p="GameReadyAPI" t="Include">
+                  <e p="GRA_yg.cs" t="Include" />
+                </e>
+                <e p="GetPlayerYG.cs" t="Include" />
+                <e p="GraphicSettingsYG.cs" t="Include" />
+                <e p="ImageLoadYG.cs" t="Include" />
+                <e p="InfoYG" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="InfoYGEditor.cs" t="Include" />
+                  </e>
+                  <e p="InfoYG.cs" t="Include" />
+                </e>
+                <e p="Initialization" t="Include">
+                  <e p="InitYGAttribute.cs" t="Include" />
+                </e>
+                <e p="Inside" t="Include">
+                  <e p="CallingAnEvent.cs" t="Include" />
+                  <e p="ConfigYG.cs" t="Include" />
+                </e>
+                <e p="Language" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="AutoLocalizationMasseWindow.cs" t="Include" />
+                    <e p="CSVFileEditorWindow.cs" t="Include" />
+                    <e p="CSVManager.cs" t="Include" />
+                    <e p="FontMasseInstallEditorWindow.cs" t="Include" />
+                    <e p="LanguageYGEditor.cs" t="Include" />
+                    <e p="TranslationTableEditorWindow.cs" t="Include" />
+                  </e>
+                  <e p="Lang_yg.cs" t="Include" />
+                  <e p="LanguageYG.cs" t="Include" />
+                  <e p="LangYGAdditionalText.cs" t="Include" />
+                  <e p="UtilsLang.cs" t="Include" />
+                </e>
+                <e p="Leaderboards" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="Leaderboards_build.cs" t="Include" />
+                  </e>
+                  <e p="InternalScripts" t="Include">
+                    <e p="Leaderboards_yg.cs" t="Include" />
+                    <e p="UtilsLB.cs" t="Include" />
+                  </e>
+                  <e p="LBPlayerDataYG.cs" t="Include" />
+                  <e p="LeaderboardYG.cs" t="Include" />
+                </e>
+                <e p="LocalStorage" t="Include">
+                  <e p="LocalStorage_yg.cs" t="Include" />
+                </e>
+                <e p="Payments" t="Include">
+                  <e p="ConsumePurchasesYG.cs" t="Include" />
+                  <e p="Editor" t="Include">
+                    <e p="Payments_build.cs" t="Include" />
+                  </e>
+                  <e p="InternalScripts" t="Include">
+                    <e p="Payments_yg.cs" t="Include" />
+                    <e p="UtilsPayments.cs" t="Include" />
+                  </e>
+                  <e p="PaymentsCatalogYG.cs" t="Include" />
+                  <e p="PurchaseYG.cs" t="Include" />
+                </e>
+                <e p="PromptYG.cs" t="Include" />
+                <e p="ReviewYG.cs" t="Include" />
+                <e p="Storage" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="CloudStorage_build.cs" t="Include" />
+                  </e>
+                  <e p="Storage_yg.cs" t="Include" />
+                </e>
+                <e p="TimerBeforeAdsYG.cs" t="Include" />
+                <e p="UnityToolbag-main" t="Include">
+                  <e p="ConditionallyVisiblePropertyDrawer" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="ConditionallyVisiblePropertyDrawer.cs" t="Include" />
+                    </e>
+                    <e p="Runtime" t="Include">
+                      <e p="ConditionallyVisibleAttribute.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="LICENSE.txt" t="Include" />
+                  <e p="Notices.txt" t="Include" />
+                </e>
+                <e p="ViewingAdsYG.cs" t="Include" />
+                <e p="YandexGame.cs" t="Include" />
+                <e p="YandexMetrica" t="Include">
+                  <e p="JsonUtils.cs" t="Include" />
+                  <e p="YandexMetrica.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Third-Party Notices.txt" t="Include" />
+              <e p="WorkingData" t="Include">
+                <e p="SavesYG.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="DATA" t="Include">
+              <e p="Game" t="Include">
+                <e p="LevelData.cs" t="Include" />
+                <e p="LevelSaveData.cs" t="Include" />
+              </e>
+              <e p="Inspector" t="Include">
+                <e p="BundleInfo.cs" t="Include" />
+                <e p="PackInfo.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Editor" t="Include">
+              <e p="LevelCreatorWindow.cs" t="Include" />
+              <e p="LevelCreatorWorker.cs" t="Include" />
+            </e>
+            <e p="Game" t="Include">
+              <e p="GameEventManager.cs" t="Include" />
+              <e p="GameGrid.cs" t="Include" />
+              <e p="GameManager.cs" t="Include" />
+              <e p="GridCell.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="BundleScreen.cs" t="Include" />
+              <e p="GiftBox.cs" t="Include" />
+              <e p="LevelCompletePopup.cs" t="Include" />
+              <e p="LevelListItem.cs" t="Include" />
+              <e p="LevelListScreen.cs" t="Include" />
+              <e p="MainScreen.cs" t="Include" />
+              <e p="PackListItem.cs" t="Include" />
+              <e p="RewardAdButton.cs" t="Include" />
+              <e p="TopBar.cs" t="Include" />
+            </e>
+            <e p="Utils" t="Include">
+              <e p="CellPos.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="LanguageSwitcher.cs" t="Include" />
+        <e p="Resources" t="Include">
+          <e p="BillingMode.json" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Examples &amp; Extras" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="Anton OFL.txt" t="Include" />
+              <e p="Bangers - OFL.txt" t="Include" />
+              <e p="Oswald-Bold - OFL.txt" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Benchmark01.cs" t="Include" />
+              <e p="Benchmark01_UGUI.cs" t="Include" />
+              <e p="Benchmark02.cs" t="Include" />
+              <e p="Benchmark03.cs" t="Include" />
+              <e p="Benchmark04.cs" t="Include" />
+              <e p="CameraController.cs" t="Include" />
+              <e p="ChatController.cs" t="Include" />
+              <e p="DropdownSample.cs" t="Include" />
+              <e p="EnvMapAnimator.cs" t="Include" />
+              <e p="ObjectSpin.cs" t="Include" />
+              <e p="ShaderPropAnimator.cs" t="Include" />
+              <e p="SimpleScript.cs" t="Include" />
+              <e p="SkewTextExample.cs" t="Include" />
+              <e p="TeleType.cs" t="Include" />
+              <e p="TextConsoleSimulator.cs" t="Include" />
+              <e p="TextMeshProFloatingText.cs" t="Include" />
+              <e p="TextMeshSpawner.cs" t="Include" />
+              <e p="TMP_DigitValidator.cs" t="Include" />
+              <e p="TMP_ExampleScript_01.cs" t="Include" />
+              <e p="TMP_FrameRateCounter.cs" t="Include" />
+              <e p="TMP_PhoneNumberValidator.cs" t="Include" />
+              <e p="TMP_TextEventCheck.cs" t="Include" />
+              <e p="TMP_TextEventHandler.cs" t="Include" />
+              <e p="TMP_TextInfoDebugTool.cs" t="Include" />
+              <e p="TMP_TextSelector_A.cs" t="Include" />
+              <e p="TMP_TextSelector_B.cs" t="Include" />
+              <e p="TMP_UiFrameRateCounter.cs" t="Include" />
+              <e p="TMPro_InstructionOverlay.cs" t="Include" />
+              <e p="VertexColorCycler.cs" t="Include" />
+              <e p="VertexJitter.cs" t="Include" />
+              <e p="VertexShakeA.cs" t="Include" />
+              <e p="VertexShakeB.cs" t="Include" />
+              <e p="VertexZoom.cs" t="Include" />
+              <e p="WarpTextExample.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+            <e p="EmojiOne.json" t="Include" />
+          </e>
+        </e>
+        <e p="WebGLTemplates" t="Include">
+          <e p="LICENSE.txt" t="Include" />
+          <e p="Notices.txt" t="Include" />
+        </e>
+      </e>
+      <e p="DotConnectUnityProject.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Р\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Р\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_DotConnectUnityProject.-1999209919.00" t="ExcludeRecursive" />
+  </component>
+</project>
