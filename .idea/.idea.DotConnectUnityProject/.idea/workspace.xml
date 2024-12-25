@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/VertexModifiers/Shadow.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/578D960B-4120-4F0A-A903-8FAC387556E9/58/2be28de1/Int32.cs" root0="SKIP_HIGHLIGHTING" />
@@ -34,10 +37,15 @@
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/UI/MainScreen.cs" />
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/UI/TopBar.cs" />
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/UI/PackListItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/DotConnect/Plugins/SimpleLocalization/Scripts/LocalizationSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/DotConnect/Framework/Scripts/IAP/IAPManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/YandexADS/PagesYandexAds.cs" />
+        <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/YandexADS/TestAds.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="2qOhNSKXBGuQvcyUHT9CxG8evqc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -86,7 +94,9 @@
       <workItem from="1734873521962" duration="1316000" />
       <workItem from="1734942343463" duration="2606000" />
       <workItem from="1734968406851" duration="595000" />
-      <workItem from="1735023414486" duration="16990000" />
+      <workItem from="1735023414486" duration="17944000" />
+      <workItem from="1735072953410" duration="1276000" />
+      <workItem from="1735117708013" duration="2887000" />
     </task>
     <servers />
   </component>
@@ -99,6 +109,14 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="588" y="349" key="#Notifications" timestamp="1735117734951">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="588" y="349" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1735117734951" />
+    <state x="444" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1735059637960">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="444" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1735059637960" />
     <state x="503" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1735028229341">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

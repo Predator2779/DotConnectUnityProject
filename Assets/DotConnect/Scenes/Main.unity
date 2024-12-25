@@ -14182,6 +14182,7 @@ GameObject:
   - component: {fileID: 995907122}
   - component: {fileID: 995907125}
   - component: {fileID: 995907123}
+  - component: {fileID: 995907126}
   m_Layer: 5
   m_Name: NextLevelButton
   m_TagString: Untagged
@@ -14280,6 +14281,19 @@ MonoBehaviour:
           m_StringArgument: next_level
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &995907126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 995907121}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c850241004814493b2c884299f490303, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _adsChance: 40
 --- !u!1 &1006091359
 GameObject:
   m_ObjectHideFlags: 0
@@ -14414,6 +14428,11 @@ PrefabInstance:
     - target: {fileID: 2211564899198745199, guid: caf9732433f4dc044845763962493607,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3157483472541429372, guid: caf9732433f4dc044845763962493607,
+        type: 3}
+      propertyPath: pauseMethod
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3157483472541429372, guid: caf9732433f4dc044845763962493607,
@@ -15741,6 +15760,7 @@ GameObject:
   - component: {fileID: 1118798344}
   - component: {fileID: 1118798347}
   - component: {fileID: 1118798345}
+  - component: {fileID: 1118798348}
   m_Layer: 5
   m_Name: PrevLevelButton
   m_TagString: Untagged
@@ -15839,6 +15859,19 @@ MonoBehaviour:
           m_StringArgument: next_level
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &1118798348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1118798343}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c850241004814493b2c884299f490303, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _adsChance: 20
 --- !u!1 &1123648093
 GameObject:
   m_ObjectHideFlags: 0
@@ -16735,6 +16768,7 @@ GameObject:
   - component: {fileID: 1170797337}
   - component: {fileID: 1170797340}
   - component: {fileID: 1170797338}
+  - component: {fileID: 1170797341}
   m_Layer: 5
   m_Name: NextLevelButton
   m_TagString: Untagged
@@ -16834,6 +16868,19 @@ MonoBehaviour:
           m_StringArgument: next_level
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &1170797341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1170797336}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c850241004814493b2c884299f490303, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _adsChance: 80
 --- !u!1 &1170828365
 GameObject:
   m_ObjectHideFlags: 0

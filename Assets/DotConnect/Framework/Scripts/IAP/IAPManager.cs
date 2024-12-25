@@ -14,9 +14,6 @@ using UnityEngine.Purchasing.Extension;
 namespace BizzyBeeGames
 {
 	public class IAPManager : SingletonComponent<IAPManager>, ISaveable
-	#if BBG_IAP
-	, IStoreListener
-	#endif
 	{
 		#region Classes
 
@@ -116,7 +113,7 @@ namespace BizzyBeeGames
 
 			Logger.Log(LogTag, "Initializing IAP now...");
 
-			UnityPurchasing.Initialize(this, builder);
+			// UnityPurchasing.Initialize(this, builder);
 
 			#endif
 		}

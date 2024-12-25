@@ -5,13 +5,9 @@ using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 using Newtonsoft.Json;
-using Unity.EditorCoroutines.Editor;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.Networking;
-#if UNITY_EDITOR
-
-#endif
 
 namespace DotConnect.Plugins.SimpleLocalization.Scripts
 {
@@ -84,7 +80,7 @@ namespace DotConnect.Plugins.SimpleLocalization.Scripts
 
         public void DownloadGoogleSheets(Action callback = null)
         {
-            EditorCoroutineUtility.StartCoroutineOwnerless(DownloadGoogleSheetsCoroutine(callback));
+            Unity.EditorCoroutines.Editor.EditorCoroutineUtility.StartCoroutineOwnerless(DownloadGoogleSheetsCoroutine(callback));
         }
         
         public IEnumerator DownloadGoogleSheetsCoroutine(Action callback = null, bool silent = false)
@@ -203,7 +199,7 @@ namespace DotConnect.Plugins.SimpleLocalization.Scripts
 
         public void ResolveGoogleSheets()
         {
-            EditorCoroutineUtility.StartCoroutineOwnerless(ResolveGoogleSheetsCoroutine());
+            Unity.EditorCoroutines.Editor.EditorCoroutineUtility.StartCoroutineOwnerless(ResolveGoogleSheetsCoroutine());
 
             IEnumerator ResolveGoogleSheetsCoroutine()
             {
