@@ -33,7 +33,6 @@
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/TestReward.cs" />
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/UI/RewardAdButton.cs" />
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/YandexADS/TestReward.cs" />
-        <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/YandexADS/RewardYandexButton.cs" />
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/UI/MainScreen.cs" />
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/UI/TopBar.cs" />
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/UI/PackListItem.cs" />
@@ -41,6 +40,7 @@
         <option value="$PROJECT_DIR$/Assets/DotConnect/Framework/Scripts/IAP/IAPManager.cs" />
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/YandexADS/PagesYandexAds.cs" />
         <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/YandexADS/TestAds.cs" />
+        <option value="$PROJECT_DIR$/Assets/DotConnect/Scripts/YandexADS/RewardYandexButton.cs" />
       </list>
     </option>
   </component>
@@ -97,6 +97,7 @@
       <workItem from="1735023414486" duration="17944000" />
       <workItem from="1735072953410" duration="1276000" />
       <workItem from="1735117708013" duration="2887000" />
+      <workItem from="1735402910150" duration="543000" />
     </task>
     <servers />
   </component>
@@ -117,9 +118,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="444" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1735059637960" />
-    <state x="503" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1735028229341">
+    <state x="503" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1735402923112">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="503" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1735028229341" />
+    <state x="503" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1735402923112" />
   </component>
 </project>

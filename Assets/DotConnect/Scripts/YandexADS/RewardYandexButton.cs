@@ -1,4 +1,5 @@
-﻿using BizzyBeeGames;
+﻿using System;
+using BizzyBeeGames;
 using BizzyBeeGames.DotConnect;
 using UnityEngine;
 using UnityEngine.UI;
@@ -16,14 +17,10 @@ namespace DotConnect.Scripts.YandexADS
 		private void Awake()
 		{
 			Button.onClick.AddListener(OnClick);
-		}
-		
-		private void OnEnable()
-		{
 			YandexGame.RewardVideoEvent += OnRewardAdGranted;
 		}
 
-		private void OnDisable()
+		private void OnDestroy()
 		{
 			YandexGame.RewardVideoEvent -= OnRewardAdGranted;
 		}
