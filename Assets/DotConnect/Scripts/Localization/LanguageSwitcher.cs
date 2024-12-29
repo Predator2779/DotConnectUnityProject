@@ -1,38 +1,47 @@
-using System.Collections.Generic;
+using System;
 using DotConnect.Plugins.SimpleLocalization.Scripts;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
-using YG;
 
 public class LanguageSwitcher : MonoBehaviour
 {
     [SerializeField] private TMP_Dropdown _langDropdown;
 
-    private void Start()
+    public Action OnLanguageSwitched;
+
+    private void Start() => AutoDetect();
+    public void Switch(TMP_Text language) => Switch(language.text);
+    public void Switch(Text language) => Switch(language.text);
+
+    private void Switch(string language)
     {
-        var listLang = new List<TMP_Dropdown.OptionData>
+        int index = _langDropdown.options.FindIndex(option => option.text == language);
+
+        if (index != -1)
         {
-            new TMP_Dropdown.OptionData("Russian"),
-            new TMP_Dropdown.OptionData("English")
-        };
-
-        _langDropdown.options = listLang;
-        Switch(listLang[0].text);
+            _langDropdown.value = index;
+            _langDropdown.RefreshShownValue();
+            LocalizationManager.Language = language;
+            OnLanguageSwitched?.Invoke();
+        }
+        else
+        {
+            Debug.LogWarning($"Язык '{language}' не найден в списке dropdown.");
+        }
     }
 
-    public void Switch(string language)
+    private void AutoDetect()
     {
-        LocalizationManager.Language = language;
-    }
-
-    public void Switch(TMP_Text language)
-    {
-        LocalizationManager.Language = language.text;
-    }
-
-    public void Switch(Text language)
-    {
-        LocalizationManager.Language = language.text;
+        switch (Application.systemLanguage)
+        {
+            case SystemLanguage.Russian:
+                Switch(SystemLanguage.Russian.ToString());
+                break;
+            default:
+                Switch(SystemLanguage.English.ToString());
+                break;
+                ;
+        }
     }
 }
